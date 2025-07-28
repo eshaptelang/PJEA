@@ -393,3 +393,120 @@
       }
     ]
   }
+  {
+    "messages": [
+      {
+        // Emphatic reflexives with own
+        "role": "user",
+        "content": "Everybody took care of themselves"
+      },
+      {
+        "role": "assistant",
+        "content": "Everybody took care of their own self"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Subject pronoun drop: referential pronouns
+        "role": "user",
+        "content": "A: Do you have tickets? B: No, I sold them already"
+      },
+      {
+        "role": "assistant",
+        "content": "A: You got tickets? B: No, sold already"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Absence of plural marking only after quantifiers
+        "role": "user",
+        "content": "We did all our subjects that were in English"
+      },
+      {
+        "role": "assistant",
+        "content": "We did all our subject in English"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Invariant be as habitual marker
+        "role": "user",
+        "content": "He is always sick"
+      },
+      {
+        "role": "assistant",
+        "content": "He be sick"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Invariant be as habitual marker
+        "role": "user",
+        "content": "If i were you"
+      },
+      {
+        "role": "assistant",
+        "content": "If I'd be you"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Zero past tense forms of regular verbs
+        "role": "user",
+        "content": "I walked"
+      },
+      {
+        "role": "assistant",
+        "content": "I walk"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Deletion of auxiliary be: before gonna
+        "role": "user",
+        "content": "I am going to go work"
+      },
+      {
+        "role": "assistant",
+        "content": "I gonna go work"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Which for ‘who’
+        "role": "user",
+        "content": "My brother, who"
+      },
+      {
+        "role": "assistant",
+        "content": "my brother, which"
+      }
+    ]
+  }
+  {
+    "messages": [
+      {
+        // Gapping/zero-relativization in subject position
+        "role": "user",
+        "content": "Them man who lives there is a nice chap"
+      },
+      {
+        "role": "assistant",
+        "content": "The man lives there is a nice chap"
+      }
+    ]
+  }
