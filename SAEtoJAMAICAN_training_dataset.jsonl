@@ -1,0 +1,1078 @@
+{
+  "messages": [
+    {
+      // Generalized third person singular pronoun: object pronouns
+      "role": "user",
+      "content": "Translate to Indian English: She went to the market to buy some vegetables"
+    },
+    {
+      "role": "assistant",
+      "content": "Her go to di market fi buy some vegetable."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Me instead of I in coordinate subjects
+      "role": "user",
+      "content": "Translate to Indian English: John and I are going to the beach later."
+    },
+    {
+      "role": "assistant",
+      "content": "Me and John a go beach later."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Creation of possessive pronouns with prefix fi- +personal pronoun
+      "role": "user",
+      "content": "Translate to Indian English: That book is mine."
+    },
+    {
+      "role": "assistant",
+      "content": "That book a fi mi."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Subject pronoun forms as (modifying) possessive pronouns: first person singular
+      "role": "user",
+      "content": "Translate to Indian English: My brother is coming later."
+    },
+    {
+      "role": "assistant",
+      "content": "Me brother a come later."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Subject pronoun forms as (modifying) possessive pronouns: first person plural
+      "role": "user",
+      "content": "Translate to Indian English: Our teacher is very kind."
+    },
+    {
+      "role": "assistant",
+      "content": "We teacher real kind."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // You as (modifying) possessive pronoun
+      "role": "user",
+      "content": "Translate to Indian English: Your phone is ringing."
+    },
+    {
+      "role": "assistant",
+      "content": "You phone a ring."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Second person pronoun forms other than you as (modifying) possessive pronoun
+      "role": "user",
+      "content": "Translate to Indian English: Your shoes are outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Unu shoes deh outside."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Object pronoun forms as (modifying) possessive pronouns: third person singular
+      "role": "user",
+      "content": "Translate to Indian English: His father is a farmer."
+    },
+    {
+      "role": "assistant",
+      "content": "Him father a farmer."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Object pronoun forms as (modifying) possessive pronouns: third person plural
+      "role": "user",
+      "content": "Translate to Indian English: Their children go to that school."
+    },
+    {
+      "role": "assistant",
+      "content": "Dem pickney go a dat school."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Forms or phrases for the second person plural pronoun other than you
+      "role": "user",
+      "content": "Translate to Indian English: You all need to finish your work."
+    },
+    {
+      "role": "assistant",
+      "content": "Unu need fi finish unu work."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of it in referential it is-constructions
+      "role": "user",
+      "content": "Translate to Indian English: It is getting dark now."
+    },
+    {
+      "role": "assistant",
+      "content": "Getting dark now."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Regularization of plural formation: extension of -s to StE irregular plurals
+      "role": "user",
+      "content": "Translate to Indian English: The children are playing outside."
+    },
+    {
+      "role": "assistant",
+      "content": "The childrens a play outside."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Plural marking via postposed elements
+      "role": "user",
+      "content": "Translate to Indian English: The boys are playing football."
+    },
+    {
+      "role": "assistant",
+      "content": "Di boy dem a play football."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Associative plural marked by postposed and them/them all/dem
+      "role": "user",
+      "content": "Translate to Indian English: John and his friends are coming to the party."
+    },
+    {
+      "role": "assistant",
+      "content": "John and dem a come to di party."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Different count/mass noun distinctions resulting in use of plural for StE singular
+      "role": "user",
+      "content": "Translate to Indian English: I need some advice before making a decision."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi need some advices before mi mek di decision."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Plural marking generally optional : for nouns with human referents
+      "role": "user",
+      "content": "Translate to Indian English: The boys are playing in the yard."
+    },
+    {
+      "role": "assistant",
+      "content": "Di boy a play inna di yard."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Plural marking generally optional: for nouns with non-human referents
+      "role": "user",
+      "content": "Translate to Indian English: The dogs are barking loudly."
+    },
+    {
+      "role": "assistant",
+      "content": "Di dog a bark loud."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Use of definite article where StE has indefinite article
+      "role": "user",
+      "content": "Translate to Indian English: She wants to buy a new car."
+    },
+    {
+      "role": "assistant",
+      "content": "She want fi buy di new car."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Use of indefinite article where StE has definite article
+      "role": "user",
+      "content": "Translate to Indian English: The sun is very hot today."
+    },
+    {
+      "role": "assistant",
+      "content": "A sun hot today."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Use of zero article where StE has definite article
+      "role": "user",
+      "content": "Translate to Indian English: The teacher is in the classroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Teacher deh inna classroom."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Use of zero article where StE has indefinite article
+      "role": "user",
+      "content": "Translate to Indian English: I saw a bird on the tree."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi see bird pon di tree."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Use of definite article where StE favours zero
+      "role": "user",
+      "content": "Translate to Indian English: She goes to school every day."
+    },
+    {
+      "role": "assistant",
+      "content": "She go to di school every day."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Use of indefinite article where StE favours zero
+      "role": "user",
+      "content": "Translate to Indian English: She became president last year."
+    },
+    {
+      "role": "assistant",
+      "content": "She turn a president last year."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Indefinite article one/wan
+      "role": "user",
+      "content": "Translate to Indian English: A man knocked on the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Wan man knock pon di door."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Demonstratives for definite articles
+      "role": "user",
+      "content": "Translate to Indian English: The girl is singing a song."
+    },
+    {
+      "role": "assistant",
+      "content": "Dat girl a sing one song."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Them instead of demonstrative those
+      "role": "user",
+      "content": "Translate to Indian English: Those shoes are too expensive."
+    },
+    {
+      "role": "assistant",
+      "content": "Them shoes too expensive."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Proximal and distal demonstratives with ʼhereʼ and ʼthereʼ
+      "role": "user",
+      "content": "Translate to Indian English: I don’t like that dress."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi nuh like dat deh dress."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Omission of genitive suffix; possession expressed through bare juxtaposition of nouns
+      "role": "user",
+      "content": "Translate to Indian English: This is John’s book."
+    },
+    {
+      "role": "assistant",
+      "content": "Dis a John book."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Wider range of uses of progressive be + V-ing than in StE: extension to stative verbs
+      "role": "user",
+      "content": "Translate to Indian English: I know the answer."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi knowing di answer."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Wider range of uses of progressive be + V-ing than in StE: extension to habitual contexts
+      "role": "user",
+      "content": "Translate to Indian English: She always goes to church on Sundays."
+    },
+    {
+      "role": "assistant",
+      "content": "She always going a church pon Sunday dem."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Levelling of the difference between present perfect and simple past: simple past for StE present perfect
+      "role": "user",
+      "content": "Translate to Indian English: I have just eaten dinner."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi just eat dinner."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Levelling of the difference between present perfect and simple past: present perfect for StE simple past
+      "role": "user",
+      "content": "Translate to Indian English: She went to the market yesterday."
+    },
+    {
+      "role": "assistant",
+      "content": "She have gone to the market yesterday."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Simple present for continuative or experiential perfect
+      "role": "user",
+      "content": "Translate to Indian English: I have lived in Kingston for ten years."
+    },
+    {
+      "role": "assistant",
+      "content": "I live in Kingston for ten years."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Completive/perfect done
+      "role": "user",
+      "content": "Translate to Indian English: She has finished her homework."
+    },
+    {
+      "role": "assistant",
+      "content": "She done finish her homework."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Past tense/anterior marker been
+      "role": "user",
+      "content": "Translate to Indian English: I had told you that already."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi been tell yuh dat already."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Loosening of sequence of tenses rule
+      "role": "user",
+      "content": "Translate to Indian English: She said that he was sick."
+    },
+    {
+      "role": "assistant",
+      "content": "She seh him sick."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Go-based future markers
+      "role": "user",
+      "content": "Translate to Indian English: I am going to tell her tomorrow."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi a go tell har tomorrow."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Volition-based future markers other than will
+      "role": "user",
+      "content": "Translate to Indian English: I will help you with your homework later."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi waan help yuh wid yuh homework later."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Would for (distant) future in contrast to will (immediate future)
+      "role": "user",
+      "content": "Translate to Indian English: I will buy a house next year."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi woulda buy one house next year."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Would in if-clauses
+      "role": "user",
+      "content": "Translate to Indian English: If she had more time, she would help us."
+    },
+    {
+      "role": "assistant",
+      "content": "If she woulda have more time, she woulda help we."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // New quasi-modals: aspectual meanings
+      "role": "user",
+      "content": "Translate to Indian English: She kept crying even after the movie ended."
+    },
+    {
+      "role": "assistant",
+      "content": "She stay deh cry even after di movie done."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Non-standard use of modals for politeness reasons
+      "role": "user",
+      "content": "Translate to Indian English: Could you please lend me your pen?"
+    },
+    {
+      "role": "assistant",
+      "content": "You woulda gimme your pen, please?"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Levelling of past tense/past participle verb forms: regularization of irregular verb paradigms
+      "role": "user",
+      "content": "Translate to Indian English: She has eaten already."
+    },
+    {
+      "role": "assistant",
+      "content": "She done eated already."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Levelling of past tense/past participle verb forms: unmarked forms
+      "role": "user",
+      "content": "Translate to Indian English: He has gone to the store already."
+    },
+    {
+      "role": "assistant",
+      "content": "Him done go to di store already."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Levelling of past tense/past participle verb forms: past tense replacing the past participle
+      "role": "user",
+      "content": "Translate to Indian English: He has gone to the market already."
+    },
+    {
+      "role": "assistant",
+      "content": "Him done went to di market already."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Levelling of past tense/past participle verb forms: past participle replacing the past tense form
+      "role": "user",
+      "content": "Translate to Indian English: Yesterday, she ate all the mangoes."
+    },
+    {
+      "role": "assistant",
+      "content": "Yesterday, she eaten all di mango dem."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Zero past tense forms of regular verbs
+      "role": "user",
+      "content": "Translate to Indian English: Yesterday, he walked to the shop."
+    },
+    {
+      "role": "assistant",
+      "content": "Yesterday, him walk go shop."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Was for conditional were
+      "role": "user",
+      "content": "Translate to Indian English: If I were rich, I would travel the world."
+    },
+    {
+      "role": "assistant",
+      "content": "If me was rich, me would travel di world."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Serial verbs: go = ʼmovement away fromʼ
+      "role": "user",
+      "content": "Translate to Indian English: She took the money and told him the truth."
+    },
+    {
+      "role": "assistant",
+      "content": "She go take the money and tell him di truth."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Serial verbs: come = ʼmovement towardsʼ
+      "role": "user",
+      "content": "Translate to Indian English: She brought the book and gave it to me."
+    },
+    {
+      "role": "assistant",
+      "content": "She come bring di book and give it to me."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Serial verbs: constructions with 3 verbs
+      "role": "user",
+      "content": "Translate to Indian English: He went and took the basket to sell at the market."
+    },
+    {
+      "role": "assistant",
+      "content": "Him go take carry basket go market."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Multiple negation / negative concord
+      "role": "user",
+      "content": "Translate to Indian English: I didn’t see anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi neva see nothing."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Invariant don’t for all persons in the present tense
+      "role": "user",
+      "content": "Translate to Indian English: She doesn’t like spicy food."
+    },
+    {
+      "role": "assistant",
+      "content": "She don’t like spicy food."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // No as preverbal negator
+      "role": "user",
+      "content": "Translate to Indian English: I don’t know where he went."
+    },
+    {
+      "role": "assistant",
+      "content": "Me no know where him go."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Invariant present tense forms due to zero marking for the third person singular
+      "role": "user",
+      "content": "Translate to Indian English: She walks to school every day."
+    },
+    {
+      "role": "assistant",
+      "content": "She walk to school every day."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Existential / presentational there’s/there is/there was with plural subjects
+      "role": "user",
+      "content": "Translate to Indian English: There are many people waiting outside."
+    },
+    {
+      "role": "assistant",
+      "content": "There is many people waiting outside."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of auxiliary be: before progressive
+      "role": "user",
+      "content": "Translate to Indian English: They are watching a movie right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Dem watching a movie right now."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of auxiliary be: before gonna
+      "role": "user",
+      "content": "Translate to Indian English: She is gonna cook dinner tonight."
+    },
+    {
+      "role": "assistant",
+      "content": "She gonna cook dinner tonight."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of copula be: before NPs
+      "role": "user",
+      "content": "Translate to Indian English: She is a teacher."
+    },
+    {
+      "role": "assistant",
+      "content": "She a teacher."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of copula be: before AdjPs
+      "role": "user",
+      "content": "Translate to Indian English: The food is delicious."
+    },
+    {
+      "role": "assistant",
+      "content": "The food delicious."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of copula be: before locatives
+      "role": "user",
+      "content": "Translate to Indian English: The children are in the yard."
+    },
+    {
+      "role": "assistant",
+      "content": "The children inna di yard."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Deletion of auxiliary have
+      "role": "user",
+      "content": "Translate to Indian English: She has finished her homework."
+    },
+    {
+      "role": "assistant",
+      "content": "She done finish her homework."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Relativizer that or what in non-restrictive contexts
+      "role": "user",
+      "content": "Translate to Indian English: My brother, who lives in London, is coming to visit."
+    },
+    {
+      "role": "assistant",
+      "content": "My brother, what live in London, a come fi visit."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Gapping/zero-relativization in subject position
+      "role": "user",
+      "content": "Translate to Indian English: The girl who won the race is my cousin."
+    },
+    {
+      "role": "assistant",
+      "content": "Di girl win di race a mi cousin."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Say-based complementizers
+      "role": "user",
+      "content": "Translate to Indian English: She told me that she is tired."
+    },
+    {
+      "role": "assistant",
+      "content": "She tell me say she tired."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // For-based complementizers
+      "role": "user",
+      "content": "Translate to Indian English: It is important that you understand the rules."
+    },
+    {
+      "role": "assistant",
+      "content": "It important for you understand di rules."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Non-finite clause complements with bare root form rather than -ing form
+      "role": "user",
+      "content": "Translate to Indian English: She started singing when she was five."
+    },
+    {
+      "role": "assistant",
+      "content": "She start sing when she was five."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Omission of StE prepositions
+      "role": "user",
+      "content": "Translate to Indian English: I was waiting for you outside the shop."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi did wait you outside di shop."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Degree modifier adverbs have the same form as adjectives
+      "role": "user",
+      "content": "Translate to Indian English: She sings really well."
+    },
+    {
+      "role": "assistant",
+      "content": "She sing real good."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Other adverbs have the same form as adjectives
+      "role": "user",
+      "content": "Translate to Indian English: He answered the question correctly."
+    },
+    {
+      "role": "assistant",
+      "content": "Him answer the question correct."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Other options for clefting than StE
+      "role": "user",
+      "content": "Translate to Indian English: It was yesterday that she left."
+    },
+    {
+      "role": "assistant",
+      "content": "A yesterday she leave."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Other possibilities for fronting than StE
+      "role": "user",
+      "content": "Translate to Indian English: I don't like that kind of food at all."
+    },
+    {
+      "role": "assistant",
+      "content": "That kind of food, mi nuh like at all."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Sentence-initial focus marker
+      "role": "user",
+      "content": "Translate to Indian English: It’s John who ate the cake."
+    },
+    {
+      "role": "assistant",
+      "content": "A John eat di cake."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Inverted word order in indirect questions
+      "role": "user",
+      "content": "Translate to Indian English: I asked what he was doing."
+    },
+    {
+      "role": "assistant",
+      "content": "Mi ask what was him doing."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // No inversion/no auxiliaries in wh-questions
+      "role": "user",
+      "content": "Translate to Indian English: What are you doing?"
+    },
+    {
+      "role": "assistant",
+      "content": "What you doing?"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // No inversion/no auxiliaries in main clause yes/no questions
+      "role": "user",
+      "content": "Translate to Indian English: Did you see him yesterday?"
+    },
+    {
+      "role": "assistant",
+      "content": "You see him yesterday?"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      // Like as a quotative particle
+      "role": "user",
+      "content": "Translate to Indian English: And I was like, 'Are you serious right now?'"
+    },
+    {
+      "role": "assistant",
+      "content": "Mi deh deh like, 'Yuh serious fi true?'"
+    }
+  ]
+}
+
