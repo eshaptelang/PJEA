@@ -10,7 +10,6 @@ ds = load_dataset("google/boolq", split="train[:5]")
 df = ds.to_pandas()
 
 def translate_text(text, source_dial="English", target_dial="Chicano English"):
-    print(f"Translating example {1}/{len(ds)}")
     response = openai.chat.completions.create(
         model="ft:gpt-4o-2024-08-06:algoverse:chicano-translator:BzAehkfn",
         messages=[
