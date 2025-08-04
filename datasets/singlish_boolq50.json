@@ -1,0 +1,352 @@
+[
+  {
+    "question":"do iran and afghanistan speak the same language",
+    "answer":true,
+    "passage":"Persian (\/\u02c8p\u025c\u02d0r\u0292\u0259n, -\u0283\u0259n\/), also known by its endonym Farsi (\u0641\u0627\u0631\u0633\u06cc f\u0101rsi (f\u0252\u02d0\u027e\u02c8si\u02d0) ( listen)), is one of the Western Iranian languages within the Indo-Iranian branch of the Indo-European language family. It is primarily spoken in Iran, Afghanistan (officially known as Dari since 1958), and Tajikistan (officially known as Tajiki since the Soviet era), and some other regions which historically were Persianate societies and considered part of Greater Iran. It is written in the Persian alphabet, a modified variant of the Arabic script, which itself evolved from the Aramaic alphabet.",
+    "question_singlish":"\"iran and afghanistan speak same language or not ah?\"",
+    "passage_singlish":"Persian, also called Farsi, is one of the Western Iranian languages in the Indo-Iranian branch of the Indo-European language family. Mainly spoken in Iran, Afghanistan (called Dari since 1958), and Tajikistan (called Tajiki since Soviet times), and some other places that used to be Persianate societies and part of Greater Iran. It's written in the Persian alphabet, which is a modified version of the Arabic script, that came from the Aramaic alphabet."
+  },
+  {
+    "question":"do good samaritan laws protect those who help at an accident",
+    "answer":true,
+    "passage":"Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated. The protection is intended to reduce bystanders' hesitation to assist, for fear of being sued or prosecuted for unintentional injury or wrongful death. An example of such a law in common-law areas of Canada: a good Samaritan doctrine is a legal principle that prevents a rescuer who has voluntarily helped a victim in distress from being successfully sued for wrongdoing. Its purpose is to keep people from being reluctant to help a stranger in need for fear of legal repercussions should they make some mistake in treatment. By contrast, a duty to rescue law requires people to offer assistance and holds those who fail to do so liable.",
+    "question_singlish":"\"Good Samaritan laws protect people who help at accident or not?\"",
+    "passage_singlish":"\"Good Samaritan laws give people legal protection when they help others who are injured, sick, in danger, or cannot help themselves. The idea is to make people less scared to help because they worry about getting sued if something goes wrong. In Canada, got this law where if you help someone in trouble, they cannot sue you for trying to help. This law is to make sure people don't scared to help strangers because they scared of getting into legal trouble if they make mistake. But got another law called duty to rescue, this one say you must help and if you don't help, you can get into trouble.\""
+  },
+  {
+    "question":"is windows movie maker part of windows essentials",
+    "answer":true,
+    "passage":"Windows Movie Maker (formerly known as Windows Live Movie Maker in Windows 7) is a discontinued video editing software by Microsoft. It is a part of Windows Essentials software suite and offers the ability to create and edit videos as well as to publish them on OneDrive, Facebook, Vimeo, YouTube, and Flickr.",
+    "question_singlish":"\"Windows Movie Maker part of Windows Essentials or not?\"",
+    "passage_singlish":"\"Windows Movie Maker (last time call Windows Live Movie Maker in Windows 7) is a video editing software by Microsoft, but now no more already. It's part of Windows Essentials software suite, can make and edit videos, then publish on OneDrive, Facebook, Vimeo, YouTube, and Flickr.\""
+  },
+  {
+    "question":"is confectionary sugar the same as powdered sugar",
+    "answer":true,
+    "passage":"Powdered sugar, also called confectioners' sugar, icing sugar, and icing cake, is a finely ground sugar produced by milling granulated sugar into a powdered state. It usually contains a small amount of anti-caking agent to prevent clumping and improve flow. Although most often produced in a factory, powdered sugar can also be made by processing ordinary granulated sugar in a coffee grinder, or by crushing it by hand in a mortar and pestle.",
+    "question_singlish":"\"Confectionary sugar same as powdered sugar or not?\"",
+    "passage_singlish":"\"Powdered sugar, also known as icing sugar or confectioners' sugar, is sugar that kena grind until powder form. Usually got a bit of anti-caking stuff inside so it won't clump and can flow nicely. Most of the time, factory make one, but if you want, can DIY by grinding normal sugar in coffee grinder, or just hantam it by hand with mortar and pestle.\""
+  },
+  {
+    "question":"is elder scrolls online the same as skyrim",
+    "answer":false,
+    "passage":"As with other games in The Elder Scrolls series, the game is set on the continent of Tamriel. The events of the game occur a millennium before those of The Elder Scrolls V: Skyrim and around 800 years before The Elder Scrolls III: Morrowind and The Elder Scrolls IV: Oblivion. It has a broadly similar structure to Skyrim, with two separate conflicts progressing at the same time, one with the fate of the world in the balance, and one where the prize is supreme power on Tamriel. In The Elder Scrolls Online, the first struggle is against the Daedric Prince Molag Bal, who is attempting to meld the plane of Mundus with his realm of Coldharbour, and the second is to capture the vacant imperial throne, contested by three alliances of the mortal races. The player character has been sacrificed to Molag Bal, and Molag Bal has stolen their soul, the recovery of which is the primary game objective.",
+    "question_singlish":"CSE: \"Elder Scrolls Online same as Skyrim or not?\"",
+    "passage_singlish":"\"As with other games in The Elder Scrolls series, the game set on the continent of Tamriel. The events of the game happen one thousand years before The Elder Scrolls V: Skyrim and about 800 years before The Elder Scrolls III: Morrowind and The Elder Scrolls IV: Oblivion. It got similar structure to Skyrim, with two separate conflicts going on at the same time, one with the fate of the world at stake, and one where the prize is ultimate power on Tamriel. In The Elder Scrolls Online, the first struggle is against the Daedric Prince Molag Bal, who trying to merge the plane of Mundus with his realm of Coldharbour, and the second is to capture the empty imperial throne, fought over by three alliances of the mortal races. The player character kena sacrifice to Molag Bal, and Molag Bal steal their soul, getting it back is the main game objective.\""
+  },
+  {
+    "question":"can you use oyster card at epsom station",
+    "answer":false,
+    "passage":"Epsom railway station serves the town of Epsom in Surrey. It is located off Waterloo Road and is less than two minutes' walk from the High Street. It is not in the London Oyster card zone unlike Epsom Downs or Tattenham Corner stations. The station building was replaced in 2012\/2013 with a new building with apartments above the station (see end of article).",
+    "question_singlish":"\"Can use oyster card at Epsom station or not?\"",
+    "passage_singlish":"CSE: \"Epsom railway station serve the town of Epsom in Surrey. It's off Waterloo Road, less than two minutes walk from High Street. Not in London Oyster card zone, unlike Epsom Downs or Tattenham Corner stations. The station building replace in 2012\/2013 with new building got apartments above (see end of article).\""
+  },
+  {
+    "question":"will there be a season 4 of da vinci's demons",
+    "answer":false,
+    "passage":"The series premiered in the United States on Starz on 12 April 2013, and its second season premiered on 22 March 2014. The series was renewed for a third season, which premiered on 24 October 2015. On 23 July 2015, Starz announced that the third season would be the show's last. However Goyer has left it open for a miniseries return.",
+    "question_singlish":"CSE: \"Da Vinci's Demons got season 4 or not?\"",
+    "passage_singlish":"\"The series premiere in US on Starz on 12 April 2013, then second season premiere on 22 March 2014. The series kena renew for third season, premiere on 24 October 2015. But on 23 July 2015, Starz say third season is the last one. But Goyer say maybe can come back as miniseries lah.\""
+  },
+  {
+    "question":"is the federal court the same as the supreme court",
+    "answer":false,
+    "passage":"The federal courts are composed of three levels of courts. The Supreme Court of the United States is the court of last resort. It is generally an appellate court that operates under discretionary review, which means that the Court can choose which cases to hear, by granting writs of certiorari. There is therefore generally no basic right of appeal that extends automatically all the way to the Supreme Court. In a few situations (like lawsuits between state governments or some cases between the federal government and a state) it sits as a court of original jurisdiction.",
+    "question_singlish":"\"Federal court same as supreme court, is it?\"",
+    "passage_singlish":"\"The federal courts got three levels one. The Supreme Court of the United States is the last stop. Usually, it's an appellate court and they can choose which cases to hear, must grant writs of certiorari first. So, not every case can automatically appeal all the way up to the Supreme Court one. But sometimes, like when state governments sue each other or some cases between the federal government and a state, it acts as a court of original jurisdiction.\""
+  },
+  {
+    "question":"did abraham lincoln write the letter in saving private ryan",
+    "answer":true,
+    "passage":"In the 1998 war film Saving Private Ryan, General George Marshall (played by Harve Presnell) reads the Bixby letter to his officers before giving the order to find and send home Private James Francis Ryan after Ryan's three brothers died in battle.",
+    "question_singlish":"\"Abraham Lincoln got write the letter in Saving Private Ryan or not?\"",
+    "passage_singlish":"\"In the 1998 war film Saving Private Ryan, General George Marshall (Harve Presnell act one) read the Bixby letter to his officers before he give order to find and send Private James Francis Ryan home after Ryan's three brothers die in battle.\""
+  },
+  {
+    "question":"is batman and robin a sequel to batman forever",
+    "answer":true,
+    "passage":"With the box office success of Batman Forever in June 1995, Warner Bros. immediately commissioned a sequel. They hired director Joel Schumacher and writer Akiva Goldsman to reprise their duties the following August, and decided it was best to fast track production for a June 1997 target release date, which is a break from the usual 3-year gap between films. Schumacher wanted to homage both the broad camp style of the 1960s television series and the work of Dick Sprang. The storyline of Batman & Robin was conceived by Schumacher and Goldsman during pre-production on A Time to Kill. Portions of Mr. Freeze's back-story were based on the Batman: The Animated Series episode ``Heart of Ice'', written by Paul Dini.",
+    "question_singlish":"CSE: \"batman and robin sequel to batman forever or not?\"",
+    "passage_singlish":"With Batman Forever box office success in June 1995, Warner Bros. straight away commission sequel. They hire director Joel Schumacher and writer Akiva Goldsman to do again their job the next August, and decide best to fast track production for June 1997 release date, which break the usual 3-year gap between films. Schumacher want to homage both the broad camp style of 1960s TV series and work of Dick Sprang. The storyline of Batman & Robin conceived by Schumacher and Goldsman during pre-production on A Time to Kill. Some parts of Mr. Freeze's back-story based on Batman: The Animated Series episode \"Heart of Ice\", written by Paul Dini."
+  },
+  {
+    "question":"is a wolverine the same as a badger",
+    "answer":false,
+    "passage":"Badgers are short-legged omnivores in the family Mustelidae, which also includes the otters, polecats, weasels, and wolverines. They belong to the caniform suborder of carnivoran mammals. The 11 species of badgers are grouped in three subfamilies: Melinae (Eurasian badgers), Mellivorinae (the honey badger or ratel), and Taxideinae (the American badger). The Asiatic stink badgers of the genus Mydaus were formerly included within Melinae (and thus Mustelidae), but recent genetic evidence indicates these are actually members of the skunk family, placing them in the taxonomic family Mephitidae.",
+    "question_singlish":"\"wolverine same as badger or not\"",
+    "passage_singlish":"Badgers got short legs, they omnivores, same family as otters, polecats, weasels, and wolverines, all in the Mustelidae family. They belong to the caniform suborder of carnivoran mammals. Got 11 types of badgers, split into three subfamilies: Melinae (Eurasian badgers), Mellivorinae (honey badger or ratel), and Taxideinae (American badger). Last time, people thought Asiatic stink badgers under Melinae, but now they say actually belong to skunk family, Mephitidae."
+  },
+  {
+    "question":"will there be a green lantern 2 movie",
+    "answer":false,
+    "passage":"Green Lantern was released on June 17, 2011, and received generally negative reviews; most criticized the film for its screenplay, inconsistent tone, choice and portrayal of villains, and its use of CGI, while some praised Reynolds' performance. Reynolds would later voice his dissatisfaction with the film. The film underperformed at the box office, grossing $219 million against a production budget of $200 million. Due to the film's negative reception and disappointing box office performance, Warner Bros. canceled any plans for a sequel, instead opting to reboot the character in the DC Extended Universe line with the film Green Lantern Corps, set for release in 2020.",
+    "question_singlish":"\"Green Lantern 2 movie got or not?\"",
+    "passage_singlish":"\"Green Lantern come out on June 17, 2011, but kena negative reviews; people say the screenplay, tone, villains, and CGI not good, but some say Reynolds act quite well. Reynolds also not happy with the film. The film didn't do well at the box office, only make $219 million, but cost $200 million to make. Because of the bad reviews and box office, Warner Bros. cancel any plans for sequel, want to reboot the character in the DC Extended Universe with Green Lantern Corps, supposed to release in 2020.\""
+  },
+  {
+    "question":"does the icc has jurisdiction in the united states",
+    "answer":false,
+    "passage":"The United States should have the chance to observe and assess the functioning of the court, over time, before choosing to become subject to its jurisdiction. Given these concerns, I will not, and do not recommend that my successor, submit the treaty to the Senate for advice and consent until our fundamental concerns are satisfied.",
+    "question_singlish":"CSE: \"The ICC got jurisdiction in the US or not?\"",
+    "passage_singlish":"\"The United States should have chance to see how the court works over time before deciding to join. Because of these concerns, I won't, and also don't recommend my successor, to submit the treaty to the Senate for advice and consent until our main concerns settle.\""
+  },
+  {
+    "question":"calcium carbide cac2 is the raw material for the production of acetylene",
+    "answer":true,
+    "passage":"Calcium carbide is a chemical compound with the chemical formula of CaC. Its main use industrially is in the production of acetylene and calcium cyanamide.",
+    "question_singlish":"CSE: \"calcium carbide CaC2 is the raw material for make acetylene\"",
+    "passage_singlish":"\"Calcium carbide is a chemical compound, formula is CaC. Mainly use in industry to produce acetylene and calcium cyanamide.\""
+  },
+  {
+    "question":"is there a now you see me 3 coming out",
+    "answer":true,
+    "passage":"Now You See Me is a series of heist thriller film written by Ed Solomon, Boaz Yakin, and Edward Ricourt. They focus on the actions of a team of illusionists named ``The Four Horsemen'' who pull off near impossible heists. The series features an ensemble cast including Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher, Dave Franco, Michael Caine, Lizzy Caplan, and Morgan Freeman. The first film was released in 2013, while the second was released in 2016, and a third film is currently in development and set to be released in 2019. The series has received mixed reviews from critics and audiences and grossed nearly $700 million worldwide.",
+    "question_singlish":"CSE: \"Got Now You See Me 3 coming out or not?\"",
+    "passage_singlish":"\"Now You See Me\" is a heist thriller film series, written by Ed Solomon, Boaz Yakin, and Edward Ricourt. The story about a team of illusionists called \"The Four Horsemen\" who do almost impossible heists. Got a lot of famous actors like Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher, Dave Franco, Michael Caine, Lizzy Caplan, and Morgan Freeman. First movie come out in 2013, second one in 2016, and third one supposed to come out in 2019. The series got mixed reviews from critics and audiences, but still make almost $700 million worldwide."
+  },
+  {
+    "question":"does a penalty shoot out goal count towards the golden boot",
+    "answer":false,
+    "passage":"A shoot-out is usually considered for statistical purposes to be separate from the match which preceded it. In the case of a two-legged fixture, the two matches are still considered either as two draws or as one win and one loss; in the case of a single match, it is still considered as a draw. This contrasts with a fixture won in extra time, where the score at the end of normal time is superseded. Converted shoot-out penalties are not considered as goals scored by a player for the purposes of their individual records, or for ``golden boot'' competitions.",
+    "question_singlish":"CSE: \"Penalty shoot out goal count for golden boot or not?\"",
+    "passage_singlish":"CSE: \"Shoot-out usually count separate from the match before for stats purpose. If got two legs, the two matches still count as two draws or one win one loss; if only one match, still count as draw. This different from extra time win, where normal time score not count anymore. Shoot-out penalties not count as goals for player record or 'golden boot' competition.\""
+  },
+  {
+    "question":"will there be a new season of cutthroat kitchen",
+    "answer":false,
+    "passage":"Cutthroat Kitchen is a cooking show hosted by Alton Brown that aired on the Food Network from August 11, 2013 to July 19, 2017. It features four chefs competing in a three-round elimination cooking competition. The contestants face auctions in which they can purchase opportunities to sabotage one another. Each chef is given $25,000 at the start of the show; the person left standing keeps whatever money they have not spent in the auctions. The show ended on its fifteenth season in July 2017. The series shares some basic elements with other four-chef, three-round elimination-style competitions on Food Network including Chopped and Guy's Grocery Games. Numerous Cutthroat Kitchen contestants have competed on these shows.",
+    "question_singlish":"\"Got new season of Cutthroat Kitchen or not?\"",
+    "passage_singlish":"\"Cutthroat Kitchen is a cooking show hosted by Alton Brown, last time show on Food Network from August 11, 2013 to July 19, 2017. Got four chefs compete in three-round elimination cooking competition. The contestants got auctions where they can buy chances to sabotage each other. Each chef start with $25,000; the one who last standing keep whatever money they never spend in the auctions. The show finish at season fifteen in July 2017. The series got some same elements like other four-chef, three-round elimination competitions on Food Network like Chopped and Guy's Grocery Games. A lot of Cutthroat Kitchen contestants also compete on these shows.\""
+  },
+  {
+    "question":"is jack sikma in the hall of fame",
+    "answer":true,
+    "passage":"In 2006, Sikma was voted as one of the 100 Legends of the IHSA Boys Basketball Tournament, a group of former players and coaches in honor of the 100 anniversary of the IHSA boys basketball tournament. On June 27, 2017, Sikma was inducted into the Small College Basketball Hall of Fame as part of their second class . Inducted alongside Sikma were Zelmo Beaty, Walt Frazier, Bob Love, Elmore Smith, Jim Spivey, Rico Swanson, George Tinsley, and Al Tucker.",
+    "question_singlish":"\"Jack Sikma in the Hall of Fame or not?\"",
+    "passage_singlish":"\"In 2006, Sikma kena voted as one of the 100 Legends of the IHSA Boys Basketball Tournament, a group of ex-players and coaches to celebrate the 100th anniversary of the IHSA boys basketball tournament. On June 27, 2017, Sikma kena inducted into the Small College Basketball Hall of Fame, part of their second batch. Inducted with Sikma were Zelmo Beaty, Walt Frazier, Bob Love, Elmore Smith, Jim Spivey, Rico Swanson, George Tinsley, and Al Tucker.\""
+  },
+  {
+    "question":"can elves and humans mate lord of the rings",
+    "answer":true,
+    "passage":"In J.R.R. Tolkien's fictional universe of Middle-earth, the Half-elven (Sindarin singular Peredhel, plural Peredhil, Quenya singular Perelda) are the children of the union of Elves and Men. Of these, the most significant were the products of couplings between the Eldar (the Elves who followed the Call to Valinor) and the Edain (the Men of the Three Houses of early Men who allied themselves with the Eldar in their war against Morgoth).",
+    "question_singlish":"\"elves and humans can mate in Lord of the Rings or not?\"",
+    "passage_singlish":"\"In J.R.R. Tolkien's Middle-earth, Half-elven are the kids of Elves and Men. The important ones came from the Eldar (Elves who went to Valinor) and the Edain (Men from Three Houses who joined Eldar to fight Morgoth).\""
+  },
+  {
+    "question":"the boy in the plastic bubble based on true story",
+    "answer":true,
+    "passage":"The Boy in the Plastic Bubble is a 1976 American made-for-television drama film inspired by the lives of David Vetter and Ted DeVita, who lacked effective immune systems. It stars John Travolta, Glynnis O'Connor, Diana Hyland, Robert Reed, Ralph Bellamy & P.J. Soles. It was written by Douglas Day Stewart, executive produced by Aaron Spelling and Leonard Goldberg (who, at the time, produced Starsky and Hutch and Charlie's Angels), and directed by Randal Kleiser, who would work with Travolta again in Grease shortly after. The original music score was composed by Mark Snow. The theme song ``What Would They Say'' was written and sung by Paul Williams. William Howard Taft High School in Woodland Hills was used for filming.",
+    "question_singlish":"\"the boy in the plastic bubble based on true story\" in Colloquial Singaporean English (Singlish) would be: \"the boy in the plastic bubble, true story one.\"",
+    "passage_singlish":"\"The Boy in the Plastic Bubble is a 1976 American TV drama film, inspired by David Vetter and Ted DeVita, who got no strong immune system. Got John Travolta, Glynnis O'Connor, Diana Hyland, Robert Reed, Ralph Bellamy & P.J. Soles acting inside. Douglas Day Stewart write the story, Aaron Spelling and Leonard Goldberg (last time they also produce Starsky and Hutch and Charlie's Angels) executive produce, and Randal Kleiser direct. Later, he work with Travolta again for Grease. Mark Snow compose the original music score. The theme song 'What Would They Say' is by Paul Williams. They film at William Howard Taft High School in Woodland Hills.\""
+  },
+  {
+    "question":"science begins with the premise that knowledge should first be acquired through observation",
+    "answer":true,
+    "passage":"These terms are used with respect to reasoning (epistemology) to distinguish ``necessary conclusions from first premises'' (i.e., what must come before sense observation) from ``conclusions based on sense observation'' (which must follow it). Thus, the two kinds of knowledge, justification, or argument, may be glossed:",
+    "question_singlish":"CSE: \"science start with the idea that must observe first then can gain knowledge\"",
+    "passage_singlish":"CSE: \"These terms used for reasoning to tell the difference between 'necessary conclusions from first premises' (what must come before sense observation) and 'conclusions based on sense observation' (which must come after). So, the two kinds of knowledge, justification, or argument can be explained like this:\""
+  },
+  {
+    "question":"is tim brown in the hall of fame",
+    "answer":true,
+    "passage":"Timothy Donell Brown (born July 22, 1966) is a former American football wide receiver who played professionally in the National Football League (NFL). He played college football for Notre Dame, where he won the Heisman Trophy, becoming the first wide receiver to win the award. He spent sixteen years with the Los Angeles\/Oakland Raiders, during which he established himself as one of the NFL's most prolific wide receivers. Brown has also played for the Tampa Bay Buccaneers. In 2015, he was inducted into the Pro Football Hall of Fame.",
+    "question_singlish":"\"Tim Brown in the Hall of Fame or not?\"",
+    "passage_singlish":"Timothy Donell Brown, born July 22, 1966, last time American football wide receiver, play in NFL one. He play college football for Notre Dame, there he win Heisman Trophy, first wide receiver to win leh. He spend sixteen years with Los Angeles\/Oakland Raiders, during that time he become one of the NFL's most prolific wide receivers. Brown also play for Tampa Bay Buccaneers before. In 2015, he kena inducted into the Pro Football Hall of Fame."
+  },
+  {
+    "question":"can you drink alcohol in public in denmark",
+    "answer":true,
+    "passage":"Drinking in public in Denmark is legal in general. The law forbids ``disturbing of the public law and order''. Thus general consumption is accepted. Several cafes have outdoor serving in the same zones.",
+    "question_singlish":"\"Denmark can drink alcohol in public or not?\"",
+    "passage_singlish":"CSE: \"In Denmark, drink in public can one. Law say cannot disturb public order only. So usually can drink. Some cafes got outdoor serving in same area.\""
+  },
+  {
+    "question":"is jersey currency legal tender in the uk",
+    "answer":false,
+    "passage":"Both Jersey and Bank of England notes are legal tender in Jersey and circulate together, alongside the Guernsey pound and Scottish banknotes. The Jersey notes are not legal tender in the United Kingdom but are legal currency, so creditors and traders may accept them if they so choose.",
+    "question_singlish":"\"Jersey currency legal tender in UK or not?\"",
+    "passage_singlish":"\"Jersey and Bank of England notes both legal tender in Jersey, they circulate together with Guernsey pound and Scottish banknotes. Jersey notes not legal tender in UK, but they legal currency, so if creditors and traders want, they can accept lah.\""
+  },
+  {
+    "question":"have the milwaukee bucks ever won a championship",
+    "answer":true,
+    "passage":"The Bucks have won one league title (1971), two conference titles (1971 and 1974), and 13 division titles (1971--1974, 1976, 1980--1986, 2001). They have featured such notable players as Kareem Abdul-Jabbar, Sidney Moncrief, Oscar Robertson, Bob Dandridge, Bob Lanier, Glenn Robinson, Ray Allen, Sam Cassell, Junior Bridgeman, Michael Redd, Terry Cummings, Vin Baker, Jon McGlocklin, Marques Johnson, and Brian Winters.",
+    "question_singlish":"CSE: \"Milwaukee Bucks ever win championship before or not?\"",
+    "passage_singlish":"\"The Bucks won one league title in 1971, two conference titles in 1971 and 1974, and 13 division titles from 1971 to 1974, 1976, 1980 to 1986, and 2001. They got famous players like Kareem Abdul-Jabbar, Sidney Moncrief, Oscar Robertson, Bob Dandridge, Bob Lanier, Glenn Robinson, Ray Allen, Sam Cassell, Junior Bridgeman, Michael Redd, Terry Cummings, Vin Baker, Jon McGlocklin, Marques Johnson, and Brian Winters.\""
+  },
+  {
+    "question":"does the world cup final go to penalties",
+    "answer":true,
+    "passage":"This is a list of all penalty shoot-outs that have occurred in the Finals tournament of the FIFA World Cup. Penalty shoot-outs were introduced as tie-breakers in the 1978 World Cup but did not occur before 1982. The first time a World Cup title was won by penalty shoot-out was in 1994. The only other time was in 2006. By the end of the 2018 edition, 30 shoot-outs have taken place in the World Cup. Of these, only two reached the sudden death stage after still being tied at the end of ``best of five kicks''.",
+    "question_singlish":"CSE: \"World Cup final got go penalties or not?\"",
+    "passage_singlish":"\"This one list of all the penalty shoot-outs that happen in the Finals tournament of the FIFA World Cup. Penalty shoot-outs start as tie-breakers in the 1978 World Cup, but never happen before 1982. First time World Cup title kena won by penalty shoot-out was 1994. The only other time was 2006. By the end of the 2018 edition, 30 shoot-outs happen in the World Cup. Out of these, only two go until sudden death stage after still draw at the end of 'best of five kicks'.\""
+  },
+  {
+    "question":"is kingdom manga based on a true story",
+    "answer":true,
+    "passage":"Kingdom (\u30ad\u30f3\u30b0\u30c0\u30e0, Kingudamu) is a Japanese manga series written and illustrated by Yasuhisa Hara (\u539f\u6cf0\u4e45, Hara Yasuhisa). The manga provides a fictionalized account of the Warring States period primarily through the experiences of the war orphan Xin and his comrades as he fights to become the greatest general under the heavens, and in doing so, unifying China for the first time in history. The series was adapted into a thirty-eight episode anime series by studio Pierrot that aired from June 4, 2012 to February 25, 2013. A second season was announced and aired from June 8, 2013 to March 1, 2014. An English language release of the anime was licensed by Funimation.",
+    "question_singlish":"CSE: \"kingdom manga based on true story ah?\"",
+    "passage_singlish":"\"Kingdom is a Japanese manga series by Yasuhisa Hara. The manga tell story about Warring States period, mainly through the war orphan Xin and his friends as he fight to become the greatest general under the heavens, and in doing so, unify China for the first time. The series got adapted into a thirty-eight episode anime by studio Pierrot, aired from June 4, 2012 to February 25, 2013. Second season also announced and aired from June 8, 2013 to March 1, 2014. Funimation got the license for English version of the anime.\""
+  },
+  {
+    "question":"is croatia part of the european economic area",
+    "answer":true,
+    "passage":"As of 2014 the contracting parties to the EEA are 3 of the 4 EFTA member states and 27 of the 28 EU member states. The 28th and newest EU member, Croatia, finished negotiating their accession to the EEA in November 2013, and since 12 April 2014 is provisionally applying the agreement pending its ratification by all EEA member states.",
+    "question_singlish":"CSE: \"Croatia part of European Economic Area or not?\"",
+    "passage_singlish":"\"As of 2014, the EEA got 3 out of 4 EFTA member states and 27 out of 28 EU member states, lah. The 28th and newest EU member, Croatia, finished negotiating their accession to the EEA in November 2013, and since 12 April 2014, they provisionally applying the agreement while waiting for all EEA member states to ratify, lor.\""
+  },
+  {
+    "question":"can u marry a dead person in france",
+    "answer":true,
+    "passage":"Posthumous marriage (or necrogamy) is a marriage in which one of the participating members is deceased. It is legal in France and similar forms are practiced in Sudan and China. Since World War I, France has had hundreds of requests each year, of which many have been accepted.",
+    "question_singlish":"\"Can marry dead person in France or not?\"",
+    "passage_singlish":"CSE: \"Posthumous marriage, or necrogamy, is when one of the people getting married already passed away. In France, it's legal, and Sudan and China got similar practices. Since World War I, France every year got hundreds of requests, and many of them kena accept.\""
+  },
+  {
+    "question":"is saline and sodium chloride the same thing",
+    "answer":false,
+    "passage":"Saline, also known as saline solution, is a mixture of sodium chloride in water and has a number of uses in medicine. Applied to the affected area it is used to clean wounds, help remove contact lenses, and help with dry eyes. By injection into a vein it is used to treat dehydration such as from gastroenteritis and diabetic ketoacidosis. It is also used to dilute other medications to be given by injection.",
+    "question_singlish":"CSE: \"Saline and sodium chloride same thing or not?\"",
+    "passage_singlish":"CSE: \"Saline, also called saline solution, is a mix of salt and water, got many uses in medicine. Use on affected area to clean wound, help take out contact lenses, and help with dry eyes. Inject into vein to treat dehydration, like from stomach flu and diabetic ketoacidosis. Also use to dilute other medicine for injection.\""
+  },
+  {
+    "question":"is there a treatment for the bubonic plague",
+    "answer":true,
+    "passage":"Several classes of antibiotics are effective in treating bubonic plague. These include aminoglycosides such as streptomycin and gentamicin, tetracyclines (especially doxycycline), and the fluoroquinolone ciprofloxacin. Mortality associated with treated cases of bubonic plague is about 1--15%, compared to a mortality of 40--60% in untreated cases.",
+    "question_singlish":"CSE: \"got treatment for the bubonic plague or not\"",
+    "passage_singlish":"\"Got a few types of antibiotics that can treat bubonic plague. Like aminoglycosides, example streptomycin and gentamicin, tetracyclines, especially doxycycline, and fluoroquinolone ciprofloxacin. If treat already, death rate about 1 to 15%, but if never treat, death rate is 40 to 60%.\""
+  },
+  {
+    "question":"does buffy's mom know she's a slayer",
+    "answer":true,
+    "passage":"The premise of the series is that Buffy is the latest Slayer, a young woman endowed by mystical forces with superhuman powers to fight and defeat vampires, demons, and other evil forces in the fictional town of Sunnydale. Like every Slayer before her, she was chosen and informed of her destiny when she was 15 years old. Her mother is unaware of her daughter's powers and responsibilities until Buffy is forced to tell her at the end of the second season of the television series. Although Joyce is shocked at this revelation, she recovers quickly and remains a source of stability for Buffy and Buffy's small circle of friends who assist her, dubbed the Scooby Gang. Eventually Joyce is able to take Buffy's dangerous demon-fighting in stride and even become proud and respectful of her daughter's abilities. Her natural death from an illness in the fifth season forces Buffy to face becoming an adult.",
+    "question_singlish":"\"Buffy mother know she is slayer or not?\"",
+    "passage_singlish":"Buffy is the latest Slayer, lah. She got superpowers to fight vampires, demons, and all the evil stuff in Sunnydale. Like all the Slayers before her, she kena chosen and told about her destiny when she was 15. Her mother dunno about her powers until Buffy tell her at the end of season two. Joyce, her mum, shocked lah, but she okay after that and becomes a stable support for Buffy and her friends, the Scooby Gang. In the end, Joyce can accept Buffy's dangerous life and even proud of her. But in season five, Joyce die from illness, and Buffy must face adult life."
+  },
+  {
+    "question":"was the leaning tower of pisa built leaning",
+    "answer":false,
+    "passage":"The tower's tilt began during construction in the 12th century, caused by an inadequate foundation on ground too soft on one side to properly support the structure's weight. The tilt increased in the decades before the structure was completed in the 14th century. It gradually increased until the structure was stabilized (and the tilt partially corrected) by efforts in the late 20th and early 21st centuries.",
+    "question_singlish":"\"Leaning Tower of Pisa built already leaning ah?\"",
+    "passage_singlish":"\"The tower start to tilt during construction in 12th century, because the foundation not strong enough, ground too soft one side to support the weight properly. The tilt become more in the years before they finish building in 14th century. It slowly increase until they stabilize it (and fix the tilt a bit) in late 20th and early 21st century.\""
+  },
+  {
+    "question":"is the movie fool's gold a true story",
+    "answer":false,
+    "passage":"Fool's Gold is a 2008 American adventure-romance film from Warner Bros. Pictures about a recently divorced couple who rekindle their romantic life while searching for a lost treasure. The film was directed by Andy Tennant and reunites the How to Lose a Guy in 10 Days stars Matthew McConaughey and Kate Hudson.",
+    "question_singlish":"CSE: \"The movie Fool's Gold true story or not?\"",
+    "passage_singlish":"CSE: \"Fool's Gold is a 2008 American adventure-romance film from Warner Bros. Pictures about one couple just divorce, then they find back their romance while looking for lost treasure. The film directed by Andy Tennant and bring back the How to Lose a Guy in 10 Days stars Matthew McConaughey and Kate Hudson.\""
+  },
+  {
+    "question":"has any nfl team played the superbowl at home",
+    "answer":false,
+    "passage":"The home field curse affects the host team of the Super Bowl. So far no team has yet managed to reach the Super Bowl in their home stadium. Four teams with Super Bowls in their home venue have qualified for the divisional playoffs: the 1994 Miami Dolphins, the 1998 Miami Dolphins, the 2016 Houston Texans, and the 2017 Minnesota Vikings, the Vikings being the first to qualify for their conference's title game. From 1966--2011 (excluding the six Super Bowl games held in a stadium without a professional team), the Super Bowl host team has had 11 winning seasons, four split seasons, and 25 losing seasons. Mathematically, the probability of that many losing seasons or more occurring by chance (assuming a 50 percent chance of having a losing season (disregarding .500 seasons)) is 7.69 percent. It should be noted, however, that the Super Bowl host stadium is selected several years before the game is played, without regard to the teams that qualify.",
+    "question_singlish":"\"Got any NFL team play Super Bowl at home before or not?\"",
+    "passage_singlish":"\"The home field curse affect the host team of the Super Bowl. So far, no team yet reach Super Bowl in their home stadium. Four teams with Super Bowl in their home venue qualify for divisional playoffs: 1994 Miami Dolphins, 1998 Miami Dolphins, 2016 Houston Texans, and 2017 Minnesota Vikings. Vikings first to qualify for their conference title game. From 1966 to 2011 (excluding six Super Bowl games held in stadium without professional team), the Super Bowl host team got 11 winning seasons, four split seasons, and 25 losing seasons. Math-wise, the chance of that many losing seasons or more happening by chance (assuming 50 percent chance of losing season, never mind .500 seasons) is 7.69 percent. But must note, the Super Bowl host stadium chosen few years before game, never mind which teams qualify.\""
+  },
+  {
+    "question":"does each australian state have its own constitution",
+    "answer":true,
+    "passage":"In Australia, each state has its own constitution. Each state constitution preceded the Constitution of Australia as constitutions of the then separate British colonies, but all the states ceded powers to the Parliament of Australia as part of federation in 1901.",
+    "question_singlish":"\"Each Australian state got its own constitution or not?\"",
+    "passage_singlish":"\"In Australia, every state got its own constitution. Last time, each state constitution come before the Australia Constitution, because they were separate British colonies. But in 1901, all the states give power to the Australia Parliament when they join together, lah.\""
+  },
+  {
+    "question":"can you have a right and left bundle branch block",
+    "answer":true,
+    "passage":"A bundle branch block can be diagnosed when the duration of the QRS complex on the ECG exceeds 120 ms. A right bundle branch block typically causes prolongation of the last part of the QRS complex, and may shift the heart's electrical axis slightly to the right. The ECG will show a terminal R wave in lead V1 and a slurred S wave in lead I. Left bundle branch block widens the entire QRS, and in most cases shifts the heart's electrical axis to the left. The ECG will show a QS or rS complex in lead V1 and a monophasic R wave in lead I. Another normal finding with bundle branch block is appropriate T wave discordance. In other words, the T wave will be deflected opposite the terminal deflection of the QRS complex. Bundle branch block, especially left bundle branch block, can lead to cardiac dyssynchrony. The simultaneous occurrence of left and right bundle branch block leads to total AV block.",
+    "question_singlish":"CSE: \"you can have right and left bundle branch block, can or not?\"",
+    "passage_singlish":"SAE: \"A bundle branch block can be diagnosed when the duration of the QRS complex on the ECG exceeds 120 ms. A right bundle branch block typically causes prolongation of the last part of the QRS complex, and may shift the heart's electrical axis slightly to the right. The ECG will show a terminal R wave in lead V1 and a slurred S wave in lead I. Left bundle branch block widens the entire QRS, and in most cases shifts the heart's electrical axis to the left. The ECG will show a QS or rS complex in lead V1 and a monophasic R wave in lead I. Another normal finding with bundle branch block is appropriate T wave discordance. In other words, the T wave will be deflected opposite the terminal deflection of the QRS complex. Bundle branch block, especially left bundle branch block, can lead to cardiac dyssynchrony. The simultaneous occurrence of left and right bundle branch block leads to total AV block.\"\n\nCSE: \"Bundle branch block can diagnose when QRS complex on ECG more than 120 ms. Right bundle branch block usually make last part of QRS complex longer, and maybe shift heart's electrical axis a bit to the right. ECG will show terminal R wave in lead V1 and slurred S wave in lead I. Left bundle branch block make whole QRS wider, and mostly shift heart's electrical axis to the left. ECG will show QS or rS complex in lead V1 and monophasic R wave in lead I. Another normal thing with bundle branch block is T wave discordance. Means T wave will go opposite direction of last part of QRS complex. Bundle branch block, especially left one, can cause heart not to sync properly. If got both left and right bundle branch block at same time, will lead to total AV block.\""
+  },
+  {
+    "question":"do you always have to say check in chess",
+    "answer":false,
+    "passage":"In informal games, it is customary to announce ``check'' when making a move that puts the opponent's king in check. In formal competitions, however, check is rarely announced.",
+    "question_singlish":"\"you always must say check in chess ah\"",
+    "passage_singlish":"\"In informal games, usually say 'check' when you move and the opponent's king kena check. But in formal competitions, check hardly announce one.\""
+  },
+  {
+    "question":"is an australian shepherd the same as an australian cattle dog",
+    "answer":false,
+    "passage":"The Texas Heeler is a cross between the Australian Cattle Dog and the Australian Shepherd that was first registered with the Animal Research Foundation (ARF) in 1970. The ARF has registered Australian Cattle Dogs without papers as ``Australian Cattledog Queensland Heelers'' since 1965 and was the first organisation to recognise the Australian Shepherd. Although originally bred for its ability to work cattle, the Texas Heeler is increasingly used as a pet and a companion in dog sports. As with most cross breeds, the Texas Heeler's size and appearance is a variable combination of the parent breeds.",
+    "question_singlish":"\"Australian Shepherd same as Australian Cattle Dog, is it?\"",
+    "passage_singlish":"\"The Texas Heeler is a mix of Australian Cattle Dog and Australian Shepherd, first registered with the Animal Research Foundation (ARF) in 1970. Since 1965, ARF register Australian Cattle Dogs without papers as 'Australian Cattledog Queensland Heelers' and was the first to recognise the Australian Shepherd. Originally bred to work cattle, now Texas Heeler more and more used as pet and for dog sports. Like most cross breeds, Texas Heeler size and look can be different, depend on the parent breeds.\""
+  },
+  {
+    "question":"is tomato puree and tomato sauce the same thing",
+    "answer":false,
+    "passage":"Tomato pur\u00e9e is a thick liquid made by cooking and straining tomatoes. The difference between tomato paste, tomato pur\u00e9e, and tomato sauce is consistency; tomato puree has a thicker consistency and a deeper flavour than sauce.",
+    "question_singlish":"\"Tomato puree and tomato sauce same thing or not?\"",
+    "passage_singlish":"CSE: \"Tomato pur\u00e9e is thick thick one, make by cooking and straining tomatoes. Difference between tomato paste, tomato pur\u00e9e, and tomato sauce is how thick they are; tomato pur\u00e9e more thick and got deeper flavour than sauce.\""
+  },
+  {
+    "question":"is the blues brothers based on a true story",
+    "answer":false,
+    "passage":"The Blues Brothers are an American blues and soul revivalist band which was founded in 1978 by comedy actors Dan Aykroyd and John Belushi as part of a musical sketch on Saturday Night Live. Belushi and Aykroyd fronted the band, respectively in character as lead vocalist ``Joliet'' Jake Blues and harmonica player\/vocalist Elwood Blues. The band was composed of well-known and respected musicians, and debuted as the musical guest on the April 22, 1978, episode of Saturday Night Live, opening the show performing ``Hey Bartender'', and later ``Soul Man''.",
+    "question_singlish":"\"Blues Brothers based on true story or not?\"",
+    "passage_singlish":"\"The Blues Brothers is an American blues and soul revival band, started in 1978 by comedy actors Dan Aykroyd and John Belushi for a musical sketch on Saturday Night Live. Belushi and Aykroyd were the frontmen, playing as lead singer 'Joliet' Jake Blues and harmonica player\/singer Elwood Blues. The band got famous musicians, and first appeared as the musical guest on the April 22, 1978, episode of Saturday Night Live, opening the show with 'Hey Bartender', then playing 'Soul Man'.\""
+  },
+  {
+    "question":"is newcastle upon tyne the same as newcastle",
+    "answer":true,
+    "passage":"Newcastle upon Tyne (locally \/nju\u02d0\u02c8k\u00e6s\u0259l\/ ( listen)), commonly known as Newcastle, is a city in Tyne and Wear, North East England, 103 miles (166 km) south of Edinburgh and 277 miles (446 km) north of London on the northern bank of the River Tyne, 8.5 mi (13.7 km) from the North Sea. Newcastle is the most populous city in the North East, and forms the core of the Tyneside conurbation, the eighth most populous urban area in the United Kingdom. Newcastle is a member of the English Core Cities Group and is a member of the Eurocities network of European cities.",
+    "question_singlish":"\"Newcastle upon Tyne same as Newcastle or not?\"",
+    "passage_singlish":"\"Newcastle upon Tyne, or just Newcastle lah, is a city in Tyne and Wear, North East England. It's 103 miles south of Edinburgh and 277 miles north of London, on the north side of the River Tyne, about 8.5 miles from the North Sea. Newcastle is the biggest city in the North East, and it's the main part of the Tyneside area, which is the eighth biggest urban area in the UK. Newcastle is part of the English Core Cities Group and also in the Eurocities network of European cities.\""
+  },
+  {
+    "question":"is post office and royal mail the same",
+    "answer":false,
+    "passage":"The Post Office provides information on services and accepts postal items and payment on behalf of the two collection and delivery divisions of Royal Mail Group, Royal Mail and Parcelforce. These include a variety of ordinary and guaranteed services both for delivery within the United Kingdom and to international destinations. Postage stamps (including commemorative stamps and other philatelic items) are sold, while applications for redirection of mail are accepted on behalf of Royal Mail.",
+    "question_singlish":"\"Post office and royal mail same or not?\"",
+    "passage_singlish":"\"The Post Office give info on services and take postal items and payment for the two collection and delivery divisions of Royal Mail Group, Royal Mail and Parcelforce. Got different normal and guaranteed services for delivery in UK and overseas. They sell postage stamps (including commemorative stamps and other philatelic items), and can apply for mail redirection for Royal Mail.\""
+  },
+  {
+    "question":"has any supreme court nominee not been confirmed",
+    "answer":true,
+    "passage":"Justices are nominated by the president and then confirmed by the U.S. Senate. A nomination to the Court is considered to be official when the Senate receives a signed nomination letter from the president naming the nominee, which is then entered in the Senate's record. There have been 37 unsuccessful nominations to the Supreme Court of the United States. Of these, 11 nominees were rejected in Senate roll-call votes, 11 were withdrawn by the president, and 15 lapsed at the end of a session of Congress. Six of these unsuccessful nominees were subsequently nominated and confirmed to other seats on the Court. Additionally, although confirmed, seven nominees either declined office or (in one instance) died before assuming office.",
+    "question_singlish":"\"Got any supreme court nominee not confirmed before?\"",
+    "passage_singlish":"Singlish: \"President nominate the Justices, then U.S. Senate confirm. Nomination official when Senate get the president's signed letter with nominee name, then put in Senate record. Got 37 times Supreme Court nomination not successful. Out of these, 11 kena reject in Senate roll-call votes, 11 president withdraw, and 15 lapsed at end of Congress session. Six of these unsuccessful ones later kena nominate and confirm for other seats on the Court. Also, even though confirm already, seven nominees either say no want the job or one time, die before taking office.\""
+  },
+  {
+    "question":"is thanksgiving always the last thursday of the month",
+    "answer":true,
+    "passage":"Thanksgiving, or Thanksgiving Day, is a public holiday celebrated on the fourth Thursday of November in the United States. It originated as a harvest festival. Thanksgiving has been celebrated nationally on and off since 1789, after Congress requested a proclamation by George Washington. It has been celebrated as a federal holiday every year since 1863, when, during the American Civil War, President Abraham Lincoln proclaimed a national day of ``Thanksgiving and Praise to our beneficent Father who dwelleth in the Heavens,'' to be celebrated on the last Thursday in November. Together with Christmas and the New Year, Thanksgiving is a part of the broader fall\/winter holiday season in the U.S.",
+    "question_singlish":"Thanksgiving always last Thursday of the month, is it?",
+    "passage_singlish":"Thanksgiving, or Thanksgiving Day, is a public holiday in the U.S., celebrated on the fourth Thursday of November. It started as a harvest festival. Thanksgiving celebrated on and off since 1789, after Congress ask George Washington to proclaim. Every year since 1863, during the American Civil War, President Abraham Lincoln say must have national day of \"Thanksgiving and Praise to our beneficent Father who dwelleth in the Heavens,\" on the last Thursday in November. Together with Christmas and New Year, Thanksgiving is part of the fall\/winter holiday season in the U.S."
+  },
+  {
+    "question":"is lord of the rings after the hobbit",
+    "answer":true,
+    "passage":"The Lord of the Rings is an epic high fantasy novel written by English author and scholar J.R.R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold.",
+    "question_singlish":"\"Lord of the Rings is after The Hobbit, is it?\"",
+    "passage_singlish":"CSE: \"The Lord of the Rings is an epic high fantasy novel by this English author and scholar J.R.R. Tolkien lah. The story start as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but in the end become a much bigger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever, got over 150 million copies sold leh.\""
+  },
+  {
+    "question":"is the fallen movie going to have a sequel",
+    "answer":false,
+    "passage":"In December 2014, it was announced that Torment, the second installment in the Fallen book series, was in development. It is unknown whether the last two novels, Passion and Rapture, and the spin-off novel, Unforgiven, will be adapted as well. In 2017, producer Kevan Van Thompson asked the fans if they want an adaptation of ``Torment'', showing that the sequel still could be made.",
+    "question_singlish":"CSE: \"The Fallen movie got sequel or not?\"",
+    "passage_singlish":"\"In December 2014, they announce that Torment, the second book in the Fallen series, in development. Dunno if the last two novels, Passion and Rapture, and the spin-off, Unforgiven, will also adapt or not. In 2017, producer Kevan Van Thompson ask the fans if they want a Torment adaptation, showing that the sequel still can make one.\""
+  },
+  {
+    "question":"does anyone on instagram have 1 billion followers",
+    "answer":false,
+    "passage":"This list contains the top 50 accounts with the most followers on the social photo-sharing platform Instagram. As of October 2018, the most followed user is Instagram's own account, with over 260 million followers. Cristiano Ronaldo is the most followed individual, with over 144 million followers. Twelve accounts have exceeded 100 million followers on the site.",
+    "question_singlish":"\"Anyone on Instagram got 1 billion followers or not?\"",
+    "passage_singlish":"\"This list got top 50 accounts with most followers on Instagram, the social photo-sharing platform. As of October 2018, Instagram's own account got the most followers, over 260 million. Cristiano Ronaldo is the most followed person, with over 144 million followers. Twelve accounts already got more than 100 million followers on the site.\""
+  },
+  {
+    "question":"in the phantom menace is padme the queen",
+    "answer":true,
+    "passage":"George Lucas, Rick McCallum, and casting director Robin Gurland auditioned over 200 actresses for the part of Padm\u00e9 Amidala. They chose 16-year-old actress Natalie Portman to play the role. According to The Phantom Menace production notes, ``The role required a young woman who could be believable as the ruler of that planet, but at the same time be vulnerable and open.'' Portman's performances in The Professional (1994) and Beautiful Girls (1996) impressed Lucas. He stated, ``I was looking for someone who was young, strong, along the lines of Leia. Natalie embodied all those traits and more.''",
+    "question_singlish":"\"in the phantom menace Padme is the queen, is it?\"",
+    "passage_singlish":"George Lucas, Rick McCallum, and casting director Robin Gurland audition over 200 actresses for the role of Padm\u00e9 Amidala. They choose 16-year-old actress Natalie Portman to play the role. According to The Phantom Menace production notes, \"The role need a young woman who can be believable as the ruler of that planet, but at the same time must be vulnerable and open.\" Portman's performances in The Professional (1994) and Beautiful Girls (1996) impress Lucas. He say, \"I was looking for someone who young, strong, like Leia. Natalie got all those traits and more.\""
+  },
+  {
+    "question":"is lord of the rings considered an epic",
+    "answer":true,
+    "passage":"The Lord of the Rings is an epic high fantasy novel written by English author and scholar J.R.R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold.",
+    "question_singlish":"\"Lord of the Rings consider epic or not?\"",
+    "passage_singlish":"CSE: \"The Lord of the Rings is an epic high fantasy novel by this English author and scholar J.R.R. Tolkien lah. The story start as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but in the end, it become a much bigger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever, with over 150 million copies sold leh.\""
+  }
+]
