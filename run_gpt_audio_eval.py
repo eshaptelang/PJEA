@@ -7,15 +7,15 @@ from openai import OpenAI
 # Initialize OpenAI client with API key from environment
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-AUDIO_DIR = Path("data/audio/dev/eng")
+AUDIO_DIR = Path("google_audio_hindi")
 OUTPUT_CSV = Path("gpt_whisper_responses.csv")
 
 def main():
     results = []
 
-    for wav_file in AUDIO_DIR.rglob("*.wav"):
-        accent = wav_file.parent.name
-        sample_id = wav_file.stem
+    for mp3_file in AUDIO_DIR.rglob("passage_*.mp3"):
+        accent = mp3_file.parent.name
+        sample_id = mp3_file.stem
 
         print(f"🔁 Processing {wav_file.name} ({accent})...")
 
