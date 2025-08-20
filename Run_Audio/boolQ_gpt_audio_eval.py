@@ -3,21 +3,26 @@ import time
 import csv
 from pathlib import Path
 from openai import OpenAI
+import pandas as pd
+from datasets import load_dataset
+from tqdm import tqdm
 
 # Initialize OpenAI client with API key from environment
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-AUDIO_DIR = Path("google_audio_hindi")
-OUTPUT_CSV = Path("gpt_whisper_responses.csv")
+AUDIO_DIR = Path("boolq_audios/indian_audio")
+OUTPUT_CSV = Path("run_audio_results/GPT_Indian_BoolQ_Results.jsonl")
+
+ds = load_dataset("google/boolq", split="train")
 
 def main():
     results = []
 
-    for mp3_file in AUDIO_DIR.rglob("passage_*.mp3"):
-        accent = mp3_file.parent.name
-        sample_id = mp3_file.stem
+    for idx, example in enumerature(tqdm(ds)):
+        filename = f'prompt_{idx}.mp3'
+        audio_path = os.path.join(AUDIO_DIR, filename)
 
-        print(f"🔁 Processing {wav_file.name} ({accent})...")
+        print(f"🔁 Processing {audio_path}...")
 
         try:
             # Transcribe audio with Whisper
@@ -31,10 +36,11 @@ def main():
 
             # Send transcription to GPT-4o chat for answer
             chat_response = client.chat.completions.create(
+                full_prompt = "Listen to this quewstion and answer True or False. Respond with only one word: True or False" + transcription
                 model="gpt-4o",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant answering spoken questions."},
-                    {"role": "user", "content": transcription}
+                    {"role": "user", "content": full_prompt}
                 ]
             )
             gpt_answer = chat_response.choices[0].message.content
