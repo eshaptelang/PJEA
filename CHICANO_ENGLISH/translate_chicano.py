@@ -25,7 +25,7 @@ few_shot_prompt = """
     Here are a few examples for reference. In the examples, a feature within chicano is given, and then an example of how it is used is shown.
     F is the feature in the language, SAE is Standard American English, CE is Chicano English.
 
-    F: Multiple negation / negative concord
+    F: Multiple negation / negative concorda
     SAE: He won't cause any harm
     CE: He won't do no harm
 
