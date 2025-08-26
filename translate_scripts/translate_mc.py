@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 from dotenv import dotenv_values
 import asyncio
 import argparse
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -642,16 +643,16 @@ async def main():
     df = ds.to_pandas()
 
     choice_columns=[]
-    df.insert(loc=1, column='question_translated', value=None)
     # inserting premise_translated column and as many choice{i}_translated columns as needed
     if not args.no_premise:
         df['premise_translated'] = None
     for i in range(args.n_choices):
         df[f"choice{i+1}_translated"] = None
         choice_columns.append(f"choice{i+1}")
+    df['premise_translated'] = None
 
     # removing idx column
-    del df['idx']
+    del df['question_translated']
 
     def translate_text(text, source_dial="English", target_dial=args.target_dial):
         print('hello')
@@ -665,7 +666,7 @@ async def main():
         )
         return response.choices[0].message.content.strip()
 
-    for i, row in df.iterrows():
+    for i, row in tqdm(df.iterrows(), total=len(df), desc="Translating rows"):
         # Translate question if not done
         if pd.isna(row["question_translated"]):
             question_translation = translate_text(row["question"])
