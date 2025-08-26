@@ -1,6 +1,6 @@
 # Arguments that aren't required
-# no_passage is set as true as default, model is gpt-4o
-NOT_REQUIRED_ARGS=' --model_name --no_passage'
+# no_passage is set as true as default, model is gpt-4o, --temp is 0.3
+NOT_REQUIRED_ARGS=' --model_name --no_passage --temp'
 
 # Required arguments
 REQUIRED_ARGS='--dataset --target_dial --output_dir'

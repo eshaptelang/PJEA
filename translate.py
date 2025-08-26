@@ -54,6 +54,11 @@ async def main():
                         default='',
                         required=True,
                         help='target dialect')
+    parser.add_argument('--temp',
+                        type=int,
+                        default=0.3,
+                        required=False,
+                        help='model temperature')
     args = parser.parse_args()
     print(args)
 
@@ -652,7 +657,7 @@ async def main():
             messages=[
                 {"role": "user", "content": f"{full_prompt}"},
             ],
-            temperature = 0.3
+            temperature = args.temp
         )
         return response.choices[0].message.content.strip()
 
