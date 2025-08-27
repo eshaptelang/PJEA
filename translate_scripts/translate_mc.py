@@ -639,7 +639,7 @@ async def main():
 
     # Change :1 into whatever number of data points you want to run, get rid of it for all
     # Leave 'super_glue' for now for testing
-    ds = load_dataset('super_glue', args.dataset, split="train[:2]")
+    ds = load_dataset('super_glue', args.dataset, split="train[:30]")
     df = ds.to_pandas()
 
     choice_columns=[]
@@ -649,13 +649,12 @@ async def main():
     for i in range(args.n_choices):
         df[f"choice{i+1}_translated"] = None
         choice_columns.append(f"choice{i+1}")
-    df['premise_translated'] = None
+    df['question_translated'] = None
 
     # removing idx column
-    del df['question_translated']
+    del df['idx']
 
     def translate_text(text, source_dial="English", target_dial=args.target_dial):
-        print('hello')
         full_prompt = few_shot_prompt + f"\nSAE: {text}\n{args.target_dial}:"
         response = client.chat.completions.create(
             model=args.model_name,
