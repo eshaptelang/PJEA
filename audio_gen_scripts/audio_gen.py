@@ -64,7 +64,7 @@ async def main():
 
         audio = client.text_to_speech.convert(
             text=question,
-            voice_id=args.voice_id,  # Jamaican English voice id
+            voice_id=args.voice_id, 
             model_id="eleven_multilingual_v2",
             output_format="mp3_44100_128"
         )
