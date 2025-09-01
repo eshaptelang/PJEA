@@ -4,6 +4,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import argparse
 import asyncio
+import json
 
 load_dotenv()
 
@@ -34,7 +35,12 @@ async def main():
                         type=str,
                         default='',
                         required=True,
-                        help='Input File')
+                        help='Bane if soecufuc section')
+    parser.add_argument('--data_key',
+                        type=str,
+                        default='',
+                        required=True,
+                        help='Path to desired section i.e vanilla.original')
     parser.add_argument('--output_dir',
                         type=str,
                         default='',
@@ -42,30 +48,34 @@ async def main():
                         help='Output Directory')
     parser.add_argument('--no_cot',
                         type=bool,
-                        default=False,
+                        default=True,
                         required=False,
                         help='Disable COT')
     parser.add_argument('--target_column',
                         type=int,
                         default=0,
-                        required=True,
+                        required=False,
                         help='Targeted column to convert')
     args = parser.parse_args()
     print(args)
 
-    df = pd.read_excel(args.input_file)
+    with open(args.input_file, 'r') as f:
+        dataset=json.load(f)
+        for key in args.data_key.split('.'):
+            dataset = dataset[key]
+        
+    # slice for testing purposes
+    dataset = dataset[0:2]
+
     print("API Key loaded:", os.getenv("ELEVENLABS_API_KEY")[:10] + "..." if os.getenv("ELEVENLABS_API_KEY") else "None")
 
-    for i in range(0,1):
-        question = df.iloc[i, args.target_column] #column 2, but python = 1 (indexing)
-        
-        if not args.no_cot:
-            question = question + " Let's think step by step."
+    for i, curr_item in enumerate(dataset):
+        question = curr_item['prompt']
 
         audio = client.text_to_speech.convert(
             text=question,
             voice_id=args.voice_id, 
-            model_id="eleven_multilingual_v2",
+            model_id=args.model_name,
             output_format="mp3_44100_128"
         )
         
