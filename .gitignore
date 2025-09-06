@@ -1,2 +1,6 @@
 .env
-datasets
+datasets/
+INDIAN_ENGLISH/
+JAMAICAN_ENGLISH/
+translate_scripts/
+SINGAPOREAN_ENGLISH/
