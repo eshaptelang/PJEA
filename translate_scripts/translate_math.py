@@ -3,6 +3,7 @@ from datasets import load_dataset
 from openai import OpenAI
 import time
 import os
+import json
 from dotenv import load_dotenv
 import asyncio
 import argparse
@@ -73,18 +74,33 @@ async def main():
             print(f"Error translating text: {e}")
             return "[ERROR]"
 
+    os.makedirs(os.path.dirname(args.output_dir), exist_ok=True)
+
+    results = []
+
     for i, row in df.iterrows():
         if pd.isna(row["question_translated"]):
             print(f"Translating question {i+1}/{len(df)}")
             question_translation = translate_text(row["question"])
             df.at[i, "question_translated"] = question_translation
+
+            results.append({
+                "id": i,
+                "question": row["question"],
+                "question_translated": question_translation,
+                "answer": row["answer"]
+            })
+
             if (i + 1) % 10 == 0:
-                df.to_excel(args.output_dir, index=False)
+                with open(args.output_dir, 'w', encoding='utf-8') as f:
+                    json.dump(results, f, indent=2, ensure_ascii=False)
                 print(f"Progress saved at question {i+1}")
+
             time.sleep(1)
 
-    df.to_excel(args.output_dir, index=False)
-    print(f"Translation complete! Results saved to {args.output_dir}")
+    with open(args.output_dir, 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
+    print(f"Translation complete! JSON results saved to {args.output_dir}")
 
 if __name__ == '__main__':
     asyncio.run(main())
