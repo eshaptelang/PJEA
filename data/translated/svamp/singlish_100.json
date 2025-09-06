@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "question": "Haley grew 14 trees in her backyard. After a typhoon 9 died. How many more trees died in the typhoon than those that survived?",
+    "question_translated": "Haley grew 14 trees in her backyard. After a typhoon 9 died. How many more trees died in the typhoon than those that survived ah?",
+    "answer": "4"
+  },
+  {
+    "id": 1,
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?",
+    "question_translated": "The grasshopper, the frog and the mouse got jumping contest. The grasshopper jump 21 inches. The grasshopper jump 25 inches farther than the frog and the mouse jump 16 inches lesser than the frog. How much farther the grasshopper jump than the mouse?",
+    "answer": "41"
+  },
+  {
+    "id": 2,
+    "question": "2 birds and 6 storks were sitting on the fence. 3 more birds came to join them. How many more storks than birds are sitting on the fence?",
+    "question_translated": "2 birds and 6 storks sitting on the fence. 3 more birds come join them. How many more storks than birds sitting on the fence?",
+    "answer": "1"
+  },
+  {
+    "id": 3,
+    "question": "Haley grew 20 trees in her backyard. After a typhoon 4 trees were left. How many trees died in the typhoon?",
+    "question_translated": "Haley grew 20 trees in her backyard. After a typhoon 4 trees left. How many trees died in the typhoon?",
+    "answer": "16"
+  },
+  {
+    "id": 4,
+    "question": "Paul had 2 books. After selling some in a garage sale he bought 150 new ones. If he has 58 books now How many books did he sell?",
+    "question_translated": "Paul got 2 books. After selling some at garage sale he buy 150 new ones. If he got 58 books now, how many books he sell?",
+    "answer": "94"
+  },
+  {
+    "id": 5,
+    "question": "Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?",
+    "question_translated": "Adam and Jackie together got 12 apples. He got 9 apples more than Adam and Jackie together. Adam got 8 more apples than Jackie. How many apples He got?",
+    "answer": "21"
+  },
+  {
+    "id": 6,
+    "question": "A book has 2 chapters across 23 pages. The first chapter is 10 pages long. How many pages are in the first chapter?",
+    "question_translated": "A book got 2 chapters across 23 pages. The first chapter 10 pages long. How many pages in the first chapter?",
+    "answer": "13"
+  },
+  {
+    "id": 7,
+    "question": "Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies. How many more sweet cookies than salty cookies did he eat?",
+    "question_translated": "Paco had 37 sweet cookies and 11 salty cookies. He eat 5 sweet cookies and 2 salty cookies. How many more sweet cookies than salty cookies he eat?",
+    "answer": "3"
+  },
+  {
+    "id": 8,
+    "question": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase. How many roses did she cut?",
+    "question_translated": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. Now got 17 roses and 96 orchids in the vase. How many roses she cut?",
+    "answer": "2"
+  },
+  {
+    "id": 9,
+    "question": "A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. How many bottles did they have total?",
+    "question_translated": "A grocery store got 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. Total how many bottles they have?",
+    "answer": "110"
+  },
+  {
+    "id": 10,
+    "question": "Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework. How many more pages of math homework than reading homework did she have?",
+    "question_translated": "Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework. How many more pages of math homework than reading homework she have?",
+    "answer": "3"
+  },
+  {
+    "id": 11,
+    "question": "A farmer had 105 green tomatoes and 71 red tomatoes in his garden. If he picked 137 tomatoes How many tomatoes are left?",
+    "question_translated": "A farmer got 105 green tomatoes and 71 red tomatoes in his garden. If he picked 137 tomatoes, how many tomatoes left?",
+    "answer": "39"
+  },
+  {
+    "id": 12,
+    "question": "Jesse's room is 19 feet wide and 20 feet long. How much longer is her room than it is wide?",
+    "question_translated": "Jesse's room 19 feet wide and 20 feet long. How much longer her room than wide?",
+    "answer": "1"
+  },
+  {
+    "id": 13,
+    "question": "Rachel had to complete 2 pages of reading homework and 4 pages of math homework. How many more pages of math homework than reading homework did she have?",
+    "question_translated": "Rachel had to complete 2 pages of reading homework and 4 pages of math homework. How many more pages of math homework than reading homework she have?",
+    "answer": "2"
+  },
+  {
+    "id": 14,
+    "question": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday. How many more kids did she play with on monday and tuesday than on wednesday?",
+    "question_translated": "Julia played tag with 15 kids on Monday, 18 kids on Tuesday, and 7 kids on Wednesday. How many more kids she play with on Monday and Tuesday than on Wednesday?",
+    "answer": "26"
+  },
+  {
+    "id": 15,
+    "question": "Jack received 6 emails in the morning and 8 emails in the afternoon. How many more emails did Jack receive in the afternoon than in the morning?",
+    "question_translated": "Jack received 6 emails in the morning and 8 emails in the afternoon. How many more emails Jack receive in the afternoon than in the morning?",
+    "answer": "2"
+  },
+  {
+    "id": 16,
+    "question": "There were 13 roses and 84 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 91 orchids and 14 roses in the vase. How many roses did she cut?",
+    "question_translated": "There were 13 roses and 84 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. Now got 91 orchids and 14 roses in the vase. How many roses she cut?",
+    "answer": "1"
+  },
+  {
+    "id": 17,
+    "question": "Each pot has 40 flowers in it. There are 400 flowers in total. How many pots are there in all?",
+    "question_translated": "Each pot got 40 flowers. Total got 400 flowers. How many pots in all?",
+    "answer": "10"
+  },
+  {
+    "id": 18,
+    "question": "If you had 33 cookies and each bag has 11 cookies How many bags of cookies do you have?",
+    "question_translated": "If you had 33 cookies and each bag got 11 cookies, how many bags of cookies you have?",
+    "answer": "3"
+  },
+  {
+    "id": 19,
+    "question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?",
+    "question_translated": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?  \nCSE: Being his favorite, he saved checking on the grapevines for his last stop. He told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?",
+    "answer": "35624"
+  },
+  {
+    "id": 20,
+    "question": "Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house. How many more blocks did he use to build the house than he did to build the tower?",
+    "question_translated": "Randy got 86 blocks. He use 79 blocks to build a tower and 82 blocks to build a house. How many more blocks he use to build the house than the tower?",
+    "answer": "3"
+  },
+  {
+    "id": 21,
+    "question": "Marco and his dad went strawberry picking. His strawberries weighed 8 pounds while his dad's strawberries weighed 32 pounds. Together how much did their strawberries weigh?",
+    "question_translated": "Marco and his dad went strawberry picking. His strawberries weigh 8 pounds while his dad's strawberries weigh 32 pounds. Together how much their strawberries weigh?",
+    "answer": "40"
+  },
+  {
+    "id": 22,
+    "question": "Jackie has 10 apples. Adam has 8 apples. How many more apples does Jackie have than Adam?",
+    "question_translated": "Jackie got 10 apples. Adam got 8 apples. How many more apples Jackie have than Adam?",
+    "answer": "2"
+  },
+  {
+    "id": 23,
+    "question": "At the zoo, a cage had 95 snakes and 61 alligators. If 64 snakes were hiding How many snakes were not hiding?",
+    "question_translated": "At the zoo, a cage got 95 snakes and 61 alligators. If 64 snakes hiding, how many snakes not hiding?",
+    "answer": "31"
+  },
+  {
+    "id": 24,
+    "question": "There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches. How many green peaches are in the baskets altogether?",
+    "question_translated": "There are 7 baskets of peaches. Each basket got 10 red peaches and 2 green peaches. How many green peaches in the baskets altogether?",
+    "answer": "14"
+  },
+  {
+    "id": 25,
+    "question": "22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus. How many children got off the bus at the bus stop?",
+    "question_translated": "22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus. How many children got off the bus at the bus stop ah?",
+    "answer": "60"
+  },
+  {
+    "id": 26,
+    "question": "David did 27 more push-ups but 7 less crunches than Zachary in gym class today. If Zachary did 5 push-ups and 17 crunches How many more crunches than push-ups did Zachary do?",
+    "question_translated": "David did 27 more push-ups but 7 less crunches than Zachary in gym class today. If Zachary did 5 push-ups and 17 crunches, how many more crunches than push-ups Zachary do?",
+    "answer": "12"
+  },
+  {
+    "id": 27,
+    "question": "Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection. How many more wrappers than bottle caps did danny find at the park?",
+    "question_translated": "Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he got 68 bottle caps and 51 wrappers in his collection. How many more wrappers than bottle caps Danny found at the park?",
+    "answer": "17"
+  },
+  {
+    "id": 28,
+    "question": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes. How many cakes does baker still have?",
+    "question_translated": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes. How many cakes baker still have?",
+    "answer": "186"
+  },
+  {
+    "id": 29,
+    "question": "Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money. How much did each candy bar cost?",
+    "question_translated": "Dan got $3. He buy 2 candy bar for $4, each one cost same amount of money. How much each candy bar cost?",
+    "answer": "2"
+  },
+  {
+    "id": 30,
+    "question": "Jake has 9 fewer peaches than Steven and 18 more peaches than Jill. Steven has 16 peaches. How many more peaches does Steven have than Jill?",
+    "question_translated": "Jake got 9 fewer peaches than Steven and 18 more peaches than Jill. Steven got 16 peaches. How many more peaches Steven got than Jill?",
+    "answer": "27"
+  },
+  {
+    "id": 31,
+    "question": "Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese. How many more hours does he spend on learning english than he does on learning chinese?",
+    "question_translated": "Every day Ryan spend 6 hours learning English and 2 hours learning Chinese. How many more hours he spend learning English than Chinese?",
+    "answer": "4"
+  },
+  {
+    "id": 32,
+    "question": "Frank had 42 pieces of candy. If he put them equally into 2 bags How many pieces of candy are in each bag?",
+    "question_translated": "Frank got 42 pieces of candy. If he put them equally into 2 bags, how many pieces of candy in each bag?",
+    "answer": "21"
+  },
+  {
+    "id": 33,
+    "question": "Luke played a trivia game and scored 154 points. If he gained the 11 points in each round How many rounds did he play?",
+    "question_translated": "Luke played a trivia game and scored 154 points. If he gain 11 points each round, how many rounds he play?",
+    "answer": "14"
+  },
+  {
+    "id": 34,
+    "question": "He also had 56 aquariums for saltwater animals and 10 aquariums for freshwater animals. Each aquarium has 39 animals in it. How many saltwater animals does Tyler have?",
+    "question_translated": "He also got 56 aquariums for saltwater animals and 10 aquariums for freshwater animals. Each aquarium got 39 animals inside. How many saltwater animals Tyler have?",
+    "answer": "2184"
+  },
+  {
+    "id": 35,
+    "question": "They decided to hold the party in their backyard. If they have 5 sets of tables and each set has 10 chairs How many more chairs than tables do they have?",
+    "question_translated": "They decided to hold the party in their backyard. They got 5 sets of tables and each set got 10 chairs. How many more chairs than tables they have?",
+    "answer": "45"
+  },
+  {
+    "id": 36,
+    "question": "Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If he also has 10 books on the shelf How many more action figures than books were on his shelf?",
+    "question_translated": "Jerry had 9 action figures on a shelf in his room. Later he add 7 more action figures to the shelf. If he also got 10 books on the shelf, how many more action figures than books were on his shelf?",
+    "answer": "6"
+  },
+  {
+    "id": 37,
+    "question": "Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate. How many more pieces of candy than chocolate did Bobby eat?",
+    "question_translated": "Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate. How many more pieces of candy than chocolate Bobby eat?",
+    "answer": "58"
+  },
+  {
+    "id": 38,
+    "question": "There are 8 different books and 5 different movies in the ' crazy silly school ' series. If you read 19 of the movies and watched 16 of the books How many more movies than books have you read?",
+    "question_translated": "CSE: There are 8 different books and 5 different movies in the 'crazy silly school' series. If you read 19 of the movies and watched 16 of the books, how many more movies than books you read?",
+    "answer": "3"
+  },
+  {
+    "id": 39,
+    "question": "Matthew had 31 crackers. He has 23 crackers left after he gave equal numbers of crackers to his 5 friends. How many crackers did Matthew give to his friends?",
+    "question_translated": "Matthew got 31 crackers. He got 23 crackers left after he give equal numbers of crackers to his 5 friends. How many crackers Matthew give to his friends?",
+    "answer": "8"
+  },
+  {
+    "id": 40,
+    "question": "Julia played tag with 7 kids on monday and 13 kids on tuesday. She played cards wtih 20 kids on wednesday. How many kids did she play tag with altogether?",
+    "question_translated": "Julia played tag with 7 kids on Monday and 13 kids on Tuesday. She played cards with 20 kids on Wednesday. How many kids she play tag with altogether?",
+    "answer": "20"
+  },
+  {
+    "id": 41,
+    "question": "Paul had 51 books and 106 pens. After selling some books and pens in a garage sale he had 82 books and 14 pens left. How many pens did he sell in the garage sale?",
+    "question_translated": "Paul had 51 books and 106 pens. After selling some books and pens in a garage sale he had 82 books and 14 pens left. How many pens he sell in the garage sale?",
+    "answer": "92"
+  },
+  {
+    "id": 42,
+    "question": "They decided to hold the party in their backyard. They have 4 sets of tables and each set has 3 chairs. If a total of 14 people will attend the party How many more chairs will they have to buy?",
+    "question_translated": "They decided to hold the party in their backyard. They got 4 sets of tables and each set got 3 chairs. If total 14 people will attend the party, how many more chairs they need to buy?",
+    "answer": "2"
+  },
+  {
+    "id": 43,
+    "question": "During summer break 800059 kids from Lawrence county go to camp and the rest stay home. Lawrence county has 828521 kids in all. About how many kids stayed home?",
+    "question_translated": "During summer break 800059 kids from Lawrence county go to camp and the rest stay home. Lawrence county got 828521 kids in all. About how many kids stayed home ah?",
+    "answer": "28462"
+  },
+  {
+    "id": 44,
+    "question": "5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus. How many more children got on the bus than those that got off?",
+    "question_translated": "5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then got 14 children altogether on the bus. How many more children got on the bus than those that got off?",
+    "answer": "9"
+  },
+  {
+    "id": 45,
+    "question": "Robin has some packages of gum. There are 7 pieces in each package. Robin has 6 extra pieces of gum. In all the number of pieces of gums robin has is 41. How many packages does Robin have?",
+    "question_translated": "Robin got some packages of gum. Each package got 7 pieces. Robin got 6 extra pieces of gum. In all, the number of pieces of gum Robin got is 41. How many packages Robin have?",
+    "answer": "5"
+  },
+  {
+    "id": 46,
+    "question": "Randy has some blocks. He uses 52 blocks to build a tower. If there are 38 blocks left How many blocks did he have at the start?",
+    "question_translated": "Randy got some blocks. He use 52 blocks to build a tower. If got 38 blocks left, how many blocks he have at the start?",
+    "answer": "90"
+  },
+  {
+    "id": 47,
+    "question": "Baker made 52 pastries and 84 cakes. If he sold 102 cakes and 94 pastries How many more cakes than pastries did baker make?",
+    "question_translated": "Baker made 52 pastries and 84 cakes. If he sold 102 cakes and 94 pastries, how many more cakes than pastries Baker make?",
+    "answer": "32"
+  },
+  {
+    "id": 48,
+    "question": "Randy has 97 blocks. He uses some blocks to build a tower. If there are 72 blocks left How many blocks did he use to build the tower?",
+    "question_translated": "Randy got 97 blocks. He use some blocks to build a tower. If got 72 blocks left, how many blocks he use to build the tower?",
+    "answer": "25"
+  },
+  {
+    "id": 49,
+    "question": "There were 100 dollars in Olivia's wallet. She collected 148 more dollars from an atm. After she visited a supermarket there were 159 dollars left. How much did she spend?",
+    "question_translated": "Olivia got 100 dollars in her wallet. She collect 148 more dollars from ATM. After she visit supermarket, got 159 dollars left. How much she spend?",
+    "answer": "89"
+  },
+  {
+    "id": 50,
+    "question": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day. How many oranges do they harvest per day if each sack contains 28 oranges?",
+    "question_translated": "He then went to see the oranges being harvested. He found out they harvest 66 sacks per day. How many oranges they harvest per day if each sack got 28 oranges?",
+    "answer": "1848"
+  },
+  {
+    "id": 51,
+    "question": "He has 9 apples more than Adam and Jackie together do. Adam and Jackie have 7 apples between them. How many apples does He have?",
+    "question_translated": "He got 9 apples more than Adam and Jackie together. Adam and Jackie got 7 apples between them. How many apples he got?",
+    "answer": "16"
+  },
+  {
+    "id": 52,
+    "question": "Luke played 177 rounds of a trivia game. If he gained 46 points in each round How many points did he score in the game?",
+    "question_translated": "Luke played 177 rounds of a trivia game. If he gain 46 points each round, how many points he score in the game?",
+    "answer": "8142"
+  },
+  {
+    "id": 53,
+    "question": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many more apps did he delete than he added?",
+    "question_translated": "Dave got 15 apps on his phone. He add 71 new apps. After deleting some, he got 14 left. How many more apps he delete than he add?",
+    "answer": "1"
+  },
+  {
+    "id": 54,
+    "question": "Emily is making bead necklaces for her 44 friends. She made 26 necklaces and each necklace takes 2 beads. How many beads did Emily have?",
+    "question_translated": "Emily is making bead necklaces for her 44 friends. She make 26 necklaces and each necklace take 2 beads. How many beads Emily have?",
+    "answer": "52"
+  },
+  {
+    "id": 55,
+    "question": "Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. She found 10 bags of cans on the next day and 4 bags of cans the day after that. How many bags did she find after monday?",
+    "question_translated": "Tiffany was collecting cans for recycling. On Monday she got 8 bags of cans. She found 10 bags of cans the next day and 4 bags of cans the day after that. How many bags she found after Monday?",
+    "answer": "14"
+  },
+  {
+    "id": 56,
+    "question": "Brenda's mother made cookies for 14. If each of them had 30 cookies How many cookies did she prepare?",
+    "question_translated": "Brenda's mother made cookies for 14. If each of them had 30 cookies, how many cookies she prepare?",
+    "answer": "420"
+  },
+  {
+    "id": 57,
+    "question": "For Gwen's birthday she received some dollars. She spent 8 dollars and has 6 dollars left with her. How much money did Gwen receive for her birthday?",
+    "question_translated": "For Gwen's birthday she received some dollars. She spent 8 dollars and got 6 dollars left with her. How much money Gwen receive for her birthday?",
+    "answer": "14"
+  },
+  {
+    "id": 58,
+    "question": "Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower. How many more blocks did he use to build the house than he did to build the tower?",
+    "question_translated": "Randy got 90 blocks. He use 89 blocks to build a house and 63 blocks to build a tower. How many more blocks he use to build the house than the tower?",
+    "answer": "26"
+  },
+  {
+    "id": 59,
+    "question": "10 red peaches and some more green peaches are in the basket. If there are a total of 15 peaches in the basket How many green peaches are in the basket?",
+    "question_translated": "10 red peaches and some more green peaches in the basket. If got total 15 peaches in the basket, how many green peaches in the basket?",
+    "answer": "5"
+  },
+  {
+    "id": 60,
+    "question": "The Ferris wheel in paradise park has some seats. Each seat can hold 9 people. If 18 people can ride the wheel at the same time How many seats does the Ferris wheel have?",
+    "question_translated": "The Ferris wheel in paradise park got some seats. Each seat can hold 9 people. If 18 people can ride the wheel at the same time, how many seats the Ferris wheel got?",
+    "answer": "2"
+  },
+  {
+    "id": 61,
+    "question": "Paul had 50 books. After buying some in a garage sale he had 151 left. How many books did he buy?",
+    "question_translated": "Paul had 50 books. After buying some in a garage sale he got 151 left. How many books he buy?",
+    "answer": "101"
+  },
+  {
+    "id": 62,
+    "question": "6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?",
+    "question_translated": "6 birds were sitting on the fence. 4 more birds and 8 more storks come join them. How many birds sitting on the fence?",
+    "answer": "10"
+  },
+  {
+    "id": 63,
+    "question": "7 red peaches, 71 yellow peaches and 8 green peaches are in the basket. How many more green peaches than red peaches are in the basket?",
+    "question_translated": "7 red peaches, 71 yellow peaches and 8 green peaches in the basket. How many more green peaches than red peaches in the basket?",
+    "answer": "1"
+  },
+  {
+    "id": 64,
+    "question": "During summer break 644997 kids from Lawrence county stayed home and the other 893835 kids went to camp. An additional 78 kids from outside the county attended the camp. How many kids are in Lawrence county?",
+    "question_translated": "During summer break 644997 kids from Lawrence county stay home and the other 893835 kids go camp. Another 78 kids from outside the county attend the camp. How many kids in Lawrence county?",
+    "answer": "1538832"
+  },
+  {
+    "id": 65,
+    "question": "Katie had 84 new games and 19 old games. Her friends had 8 new games and 69 old games. How many new games do they have together?",
+    "question_translated": "Katie had 84 new games and 19 old games. Her friends had 8 new games and 69 old games. How many new games they have together ah?",
+    "answer": "92"
+  },
+  {
+    "id": 66,
+    "question": "Brenda's mother made cookies for guests. If she prepared 38 cookies and each of them had 19 cookies How many guests did she prepare cookies for?",
+    "question_translated": "Brenda's mother made cookies for guests. If she prepared 38 cookies and each of them had 19 cookies, how many guests she prepare cookies for?",
+    "answer": "2"
+  },
+  {
+    "id": 67,
+    "question": "Jack received 5 emails and 6 letters in the morning. He then received 9 emails and 7 letters in the afternoon. How many letters did jack receive in the day?",
+    "question_translated": "Jack received 5 emails and 6 letters in the morning. Then he received 9 emails and 7 letters in the afternoon. How many letters Jack receive in the day?",
+    "answer": "13"
+  },
+  {
+    "id": 68,
+    "question": "Allan brought 5 balloons and Jake brought 3 balloons to the park. How many more balloons did Allan have than Jake in the park?",
+    "question_translated": "Allan bring 5 balloons and Jake bring 3 balloons to the park. How many more balloons Allan have than Jake in the park?",
+    "answer": "2"
+  },
+  {
+    "id": 69,
+    "question": "You have read 8 books from the ' crazy silly school ' series. If there are a total of 14 different books in the ' crazy silly school ' series How many more do you still have to read?",
+    "question_translated": "You read 8 books from the 'crazy silly school' series. If got total 14 different books in the 'crazy silly school' series, how many more you still have to read ah?",
+    "answer": "6"
+  },
+  {
+    "id": 70,
+    "question": "Nell collects baseball cards. She gave 301 of her cards to Jeff and now has 154 cards left.. How many cards did Nell have initially?",
+    "question_translated": "Nell collects baseball cards. She give 301 of her cards to Jeff and now got 154 cards left. How many cards Nell have initially?",
+    "answer": "455"
+  },
+  {
+    "id": 71,
+    "question": "Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12. How much did each book cost?",
+    "question_translated": "Edward spent $6 to buy 2 books, each book cost him the same amount of money. Now he got $12. How much each book cost ah?",
+    "answer": "3"
+  },
+  {
+    "id": 72,
+    "question": "Emily is making bead necklaces for her 72 friends. She has 6 beads and each necklace takes 3 beads. How many necklaces can Emily make?",
+    "question_translated": "Emily making bead necklaces for her 72 friends. She got 6 beads and each necklace take 3 beads. How many necklaces Emily can make?",
+    "answer": "2"
+  },
+  {
+    "id": 73,
+    "question": "Julia played tag with 5 kids on monday, 9 kids on tuesday and 15 kids on wednesday. How many kids did she play with on monday and wednesday?",
+    "question_translated": "Julia played tag with 5 kids on Monday, 9 kids on Tuesday and 15 kids on Wednesday. How many kids she play with on Monday and Wednesday?",
+    "answer": "20"
+  },
+  {
+    "id": 74,
+    "question": "He had 15 aquariums for saltwater animals and 62 aquariums for freshwater animals. Each aquarium has 19 animals in it. How many animals does he have in total?",
+    "question_translated": "He got 15 aquariums for saltwater animals and 62 aquariums for freshwater animals. Each aquarium got 19 animals inside. How many animals he got in total?",
+    "answer": "1463"
+  },
+  {
+    "id": 75,
+    "question": "Randy has 58 blocks. He uses 27 blocks to build a tower and 53 blocks to build a house. How many blocks did he use to build the tower and the house altogether?",
+    "question_translated": "Randy got 58 blocks. He use 27 blocks to build a tower and 53 blocks to build a house. How many blocks he use to build the tower and the house altogether?",
+    "answer": "80"
+  },
+  {
+    "id": 76,
+    "question": "A waiter had 11 customers. After some left he still had 3 customers. How many more customers left than those that stayed behind?",
+    "question_translated": "A waiter got 11 customers. After some left, he still got 3 customers. How many more customers left than those that stay behind?",
+    "answer": "5"
+  },
+  {
+    "id": 77,
+    "question": "Debby bought 301 water bottles when they were on sale. If she drank 144 bottles a day for some days. If she has 157 bottles left How many days did she drink for?",
+    "question_translated": "Debby bought 301 water bottles when they on sale. If she drink 144 bottles a day for some days. If she got 157 bottles left, how many days she drink for?",
+    "answer": "1"
+  },
+  {
+    "id": 78,
+    "question": "4 birds and 3 storks were sitting on the fence. 6 more storks came to join them. How many more storks than birds are sitting on the fence?",
+    "question_translated": "4 birds and 3 storks were sitting on the fence. 6 more storks came join them. How many more storks than birds sitting on the fence?",
+    "answer": "5"
+  },
+  {
+    "id": 79,
+    "question": "Faye was placing 12 pencils equally into 3 rows. How many pencils did she place in each row?",
+    "question_translated": "Faye was placing 12 pencils equally into 3 rows. How many pencils she place in each row?",
+    "answer": "4"
+  },
+  {
+    "id": 80,
+    "question": "Being his favorite, he saved checking on the grapevines after 57 stops. He was told by 252 of the pickers that they fill 108 drums of grapes per day. How many drums of grapes would be filled in 58 days?",
+    "question_translated": "Being his favorite, he saved checking on the grapevines after 57 stops. He was told by 252 of the pickers that they fill 108 drums of grapes per day. How many drums of grapes would be filled in 58 days ah?",
+    "answer": "6264"
+  },
+  {
+    "id": 81,
+    "question": "Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initially How many cakes did each person eat?",
+    "question_translated": "Matthew give equal number of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initially, how many cakes each person eat?",
+    "answer": "2"
+  },
+  {
+    "id": 82,
+    "question": "In a school there are 700 girls and the rest are boys. If there are 142 more boys than girls How many pupils are there in that school?",
+    "question_translated": "In a school got 700 girls and the rest are boys. If got 142 more boys than girls, how many pupils are there in that school?",
+    "answer": "1542"
+  },
+  {
+    "id": 83,
+    "question": "During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 60 by selling t-shirts. If they make $ 10 dollars off each t-shirt sold How many t-shirts did they sell?",
+    "question_translated": "During the Arkansas and Texas tech game the Razorback t-shirt shop make $60 by selling t-shirts. If they make $10 off each t-shirt sold, how many t-shirts they sell?",
+    "answer": "6"
+  },
+  {
+    "id": 84,
+    "question": "Because of the decision Sofia asked 288 students to suggest specific types of food. 264 students suggested adding bacon while others suggested adding mashed potatoes to the menu. How many students suggested mashed potatoes?",
+    "question_translated": "Because of the decision Sofia asked 288 students to suggest specific types of food. 264 students suggest adding bacon while others suggest adding mashed potatoes to the menu. How many students suggest mashed potatoes?",
+    "answer": "24"
+  },
+  {
+    "id": 85,
+    "question": "17 red peaches and 16 green peaches are in the basket. How many more red peaches than green peaches are in the basket?",
+    "question_translated": "17 red peaches and 16 green peaches are in the basket. How many more red peaches than green peaches in the basket?",
+    "answer": "1"
+  },
+  {
+    "id": 86,
+    "question": "Every day Ryan spends 5 hours on learning chinese and some more hours on learning english. If he spends 2 hours more on learning english than on learning chinese How many hours does he spend on learning english?",
+    "question_translated": "Every day Ryan spend 5 hours on learning Chinese and some more hours on learning English. If he spend 2 hours more on learning English than on learning Chinese, how many hours he spend on learning English?",
+    "answer": "7"
+  },
+  {
+    "id": 87,
+    "question": "Steven has 19 peaches. Jake has 12 fewer peaches than Steven and 72 more peaches than Jill. How many peaches does Jake have?",
+    "question_translated": "Steven got 19 peaches. Jake got 12 fewer peaches than Steven and 72 more peaches than Jill. How many peaches Jake got?",
+    "answer": "7"
+  },
+  {
+    "id": 88,
+    "question": "Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies. How many more salty cookies than sweet cookies did he eat?",
+    "question_translated": "Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies. How many more salty cookies than sweet cookies he eat?",
+    "answer": "14"
+  },
+  {
+    "id": 89,
+    "question": "Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?",
+    "question_translated": "Dan got $3 left after he buy a candy bar. If he got $4 at the start, how much the candy bar cost ah?",
+    "answer": "1"
+  },
+  {
+    "id": 90,
+    "question": "A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?",
+    "question_translated": "A waiter got some customers. After 9 customers left, he still got 12 customers. How many customers he got at the start?",
+    "answer": "21"
+  },
+  {
+    "id": 91,
+    "question": "Edward spent $ 6 to buy books and $ 16 to buy pens. Now he has $ 19. How much did Edward have before he spent his money?",
+    "question_translated": "Edward spent $6 to buy books and $16 to buy pens. Now he got $19. How much Edward have before he spent his money?",
+    "answer": "41"
+  },
+  {
+    "id": 92,
+    "question": "The ring toss game at the carnival made 382 dollars in the first 44 days and 374 dollars in the remaining 10 days. How much did they make in all?",
+    "question_translated": "The ring toss game at the carnival made 382 dollars in the first 44 days and 374 dollars in the remaining 10 days. How much they make in all?",
+    "answer": "756"
+  },
+  {
+    "id": 93,
+    "question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning. How many more raisin cookies did Helen bake yesterday compared to today?",
+    "question_translated": "Helen the hippo and her friends preparing for thanksgiving at Helen's house. Helen bake 519 chocolate chip cookies and 300 raisin cookies yesterday. And she bake 280 raisin cookies and 359 chocolate chip cookies this morning. How many more raisin cookies Helen bake yesterday compared to today?",
+    "answer": "20"
+  },
+  {
+    "id": 94,
+    "question": "There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups How big is each group of oranges?",
+    "question_translated": "There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups, how big each group of oranges?",
+    "answer": "2"
+  },
+  {
+    "id": 95,
+    "question": "After resting they decided to go for a swim. The depth of the water is 5 times Ron's height. Dean is 11 feet shorter than Ron. If Ron stands at 12 feet How deep was the water?",
+    "question_translated": "After resting they decided to go for a swim. The depth of the water is 5 times Ron's height. Dean is 11 feet shorter than Ron. If Ron stands at 12 feet, how deep the water?",
+    "answer": "60"
+  },
+  {
+    "id": 96,
+    "question": "Melissa scored 109 points in each game. She also got 82 bonus points in each game. How many points did she score in 79 games?",
+    "question_translated": "Melissa scored 109 points in each game. She also got 82 bonus points in each game. How many points she score in 79 games?",
+    "answer": "15089"
+  },
+  {
+    "id": 97,
+    "question": "There were 12 roses and 2 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 10 roses and 21 orchids in the vase. How many orchids did she cut?",
+    "question_translated": "There were 12 roses and 2 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. Now got 10 roses and 21 orchids in the vase. How many orchids she cut?",
+    "answer": "19"
+  },
+  {
+    "id": 98,
+    "question": "Jake has 13 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 12 apples. How many apples does Jake have?",
+    "question_translated": "Jake has 13 more apples and 17 fewer peaches than Steven. Steven got 8 peaches and 12 apples. How many apples Jake have?",
+    "answer": "25"
+  },
+  {
+    "id": 99,
+    "question": "The school is planning a field trip. The school has 21 classrooms. There are 98 students in the school and 7 school buses. If all buses are full How many seats are in each bus?",
+    "question_translated": "The school planning a field trip. The school got 21 classrooms. There are 98 students in the school and 7 school buses. If all buses full, how many seats in each bus?",
+    "answer": "14"
+  }
+]

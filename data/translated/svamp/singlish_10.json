@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "question": "Haley grew 14 trees in her backyard. After a typhoon 9 died. How many more trees died in the typhoon than those that survived?",
+    "question_translated": "Haley grew 14 trees in her backyard. After a typhoon 9 died. How many more trees died in the typhoon than those that survived ah?",
+    "answer": "4"
+  },
+  {
+    "id": 1,
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?",
+    "question_translated": "The grasshopper, the frog and the mouse got jumping contest. The grasshopper jump 21 inches. The grasshopper jump 25 inches further than the frog and the mouse jump 16 inches less than the frog. How much further the grasshopper jump than the mouse?",
+    "answer": "41"
+  },
+  {
+    "id": 2,
+    "question": "2 birds and 6 storks were sitting on the fence. 3 more birds came to join them. How many more storks than birds are sitting on the fence?",
+    "question_translated": "2 birds and 6 storks were sitting on the fence. 3 more birds come join them. How many more storks than birds sitting on the fence?",
+    "answer": "1"
+  },
+  {
+    "id": 3,
+    "question": "Haley grew 20 trees in her backyard. After a typhoon 4 trees were left. How many trees died in the typhoon?",
+    "question_translated": "Haley grew 20 trees in her backyard. After a typhoon 4 trees left. How many trees died in the typhoon?",
+    "answer": "16"
+  },
+  {
+    "id": 4,
+    "question": "Paul had 2 books. After selling some in a garage sale he bought 150 new ones. If he has 58 books now How many books did he sell?",
+    "question_translated": "Paul had 2 books. After selling some in a garage sale he buy 150 new ones. If he got 58 books now, how many books he sell?",
+    "answer": "94"
+  },
+  {
+    "id": 5,
+    "question": "Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?",
+    "question_translated": "Together Adam and Jackie got 12 apples. He got 9 apples more than Adam and Jackie together. Adam got 8 more apples than Jackie. How many apples He got?",
+    "answer": "21"
+  },
+  {
+    "id": 6,
+    "question": "A book has 2 chapters across 23 pages. The first chapter is 10 pages long. How many pages are in the first chapter?",
+    "question_translated": "A book got 2 chapters across 23 pages. The first chapter is 10 pages long. How many pages in the first chapter?",
+    "answer": "13"
+  },
+  {
+    "id": 7,
+    "question": "Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies. How many more sweet cookies than salty cookies did he eat?",
+    "question_translated": "Paco got 37 sweet cookies and 11 salty cookies. He eat 5 sweet cookies and 2 salty cookies. How many more sweet cookies than salty cookies he eat?",
+    "answer": "3"
+  },
+  {
+    "id": 8,
+    "question": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase. How many roses did she cut?",
+    "question_translated": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. Now got 17 roses and 96 orchids in the vase. How many roses she cut?",
+    "answer": "2"
+  },
+  {
+    "id": 9,
+    "question": "A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. How many bottles did they have total?",
+    "question_translated": "A grocery store got 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. Total how many bottles they have?",
+    "answer": "110"
+  }
+]
