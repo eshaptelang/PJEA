@@ -11,7 +11,7 @@ load_dotenv()
 client = ElevenLabs(api_key=os.getenv("ELEVENLABS_API_KEY"))
 
 #df = pd.read_excel("./INDIAN_ENGLISH/boolq_indian_english.xlsx")#location for excel file
- 
+
 async def main():
     # Parse arguments
     parser = argparse.ArgumentParser()
@@ -61,32 +61,32 @@ async def main():
 
     with open(args.input_file, 'r') as f:
         dataset=json.load(f)
-        for key in args.data_key.split('.'):
-            dataset = dataset[key]
-        
+        # for key in args.data_key.split('.'):
+        #     dataset = dataset[key]
+
     # slice for testing purposes
-    dataset = dataset[0:2]
+    # dataset = dataset[0:2]
 
     print("API Key loaded:", os.getenv("ELEVENLABS_API_KEY")[:10] + "..." if os.getenv("ELEVENLABS_API_KEY") else "None")
 
+    os.makedirs(args.output_dir, exist_ok=True)
+
     for i, curr_item in enumerate(dataset):
-        question = curr_item['prompt']
+        question = curr_item['question_translated']
 
         audio = client.text_to_speech.convert(
             text=question,
-            voice_id=args.voice_id, 
+            voice_id=args.voice_id,
             model_id=args.model_name,
             output_format="mp3_44100_128"
         )
-        
 
         save_path = f"{args.output_dir}/passage_{i+1}.mp3" #saving each audio file with a unique name
         with open(save_path, "wb") as f:
             for chunk in audio:
                 f.write(chunk)
-        
-        print(f"Saved to : {save_path}")
 
+        print(f"Saved to : {save_path}")
 
 if __name__ == '__main__':
     asyncio.run(main())
